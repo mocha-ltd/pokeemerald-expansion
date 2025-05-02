@@ -1710,6 +1710,14 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "map_section": "MAPSEC_ELDEROOT_TOWN",
+      "name": "ELDEROOT TOWN",
+      "x": 7,
+      "y": 1,
+      "width": 1,
+      "height": 1
     }
   ]
 }
