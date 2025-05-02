@@ -1154,3 +1154,17 @@ EventScript_VsSeekerChargingDone::
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
 	.include "data/scripts/dexnav.inc"
+
+	.include "data/maps/ElderootTown/scripts.inc"
+
+	.include "data/maps/ElderootTown_PlayersHouse_1F/scripts.inc"
+
+	.include "data/maps/ElderootTown_PlayersHouse_2F/scripts.inc"
+
+	.include "data/maps/DistortedPath/scripts.inc"
+
+	.include "data/maps/OldElderoot/scripts.inc"
+
+	.include "data/maps/OldElderoot_SageHouse/scripts.inc"
+
+	.include "data/maps/OldElderootCave/scripts.inc"
