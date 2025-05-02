@@ -4410,6 +4410,76 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_ELDEROOT_TOWN",
+      "name": "ElderootTown_Layout",
+      "width": 30,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/ElderootTown/border.bin",
+      "blockdata_filepath": "data/layouts/ElderootTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_ELDEROOT_TOWN_PLAYERS_HOUSE_1F",
+      "name": "ElderootTown_PlayersHouse_1F_Layout",
+      "width": 11,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/ElderootTown_PlayersHouse_1F/border.bin",
+      "blockdata_filepath": "data/layouts/ElderootTown_PlayersHouse_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ELDEROOT_TOWN_PLAYERS_HOUSE_2F",
+      "name": "ElderootTown_PlayersHouse_2F_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/ElderootTown_PlayersHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/ElderootTown_PlayersHouse_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_DISTORTED_PATH",
+      "name": "DistortedPath_Layout",
+      "width": 30,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_gTileset_distortion",
+      "border_filepath": "data/layouts/DistortedPath/border.bin",
+      "blockdata_filepath": "data/layouts/DistortedPath/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_ELDEROOT",
+      "name": "OldElderoot_Layout",
+      "width": 24,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/OldElderoot/border.bin",
+      "blockdata_filepath": "data/layouts/OldElderoot/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_ELDEROOT_SAGE_HOUSE",
+      "name": "OldElderoot_SageHouse_Layout",
+      "width": 11,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/OldElderoot_SageHouse/border.bin",
+      "blockdata_filepath": "data/layouts/OldElderoot_SageHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLD_ELDEROOT_CAVE",
+      "name": "OldElderootCave_Layout",
+      "width": 15,
+      "height": 16,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/OldElderootCave/border.bin",
+      "blockdata_filepath": "data/layouts/OldElderootCave/map.bin"
     }
   ]
 }
