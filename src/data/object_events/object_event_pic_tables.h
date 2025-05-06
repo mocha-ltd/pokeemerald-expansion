@@ -1,5 +1,5 @@
 static const struct SpriteFrameImage sPicTable_BrendanNormal[] = {
-    overworld_ascending_frames(gObjectEventPic_BrendanNormalRunning, 2, 4),
+    overworld_ascending_frames(gObjectEventPic_BrendanNormalRunning, 4, 4),
 };
 
 static const struct SpriteFrameImage sPicTable_BrendanMachBike[] = {
@@ -411,7 +411,7 @@ static const struct SpriteFrameImage sPicTable_Artist[] = {
 };
 
 static const struct SpriteFrameImage sPicTable_MayNormal[] = {
-    overworld_ascending_frames(gObjectEventPic_MayNormalRunning, 2, 4),
+    overworld_ascending_frames(gObjectEventPic_MayNormalRunning, 4, 4),
 };
 
 static const struct SpriteFrameImage sPicTable_MayMachBike[] = {
@@ -1345,7 +1345,7 @@ static const struct SpriteFrameImage sPicTable_HoOhOld[] = {
 };
 
 static const struct SpriteFrameImage sPicTable_RubySapphireBrendan[] = {
-    overworld_ascending_frames(gObjectEventPic_RubySapphireBrendanNormal, 2, 4),
+    overworld_ascending_frames(gObjectEventPic_RubySapphireBrendanNormal, 4, 4),
 };
 
 static const struct SpriteFrameImage sPicTable_KirliaOld[] = {
@@ -1353,5 +1353,5 @@ static const struct SpriteFrameImage sPicTable_KirliaOld[] = {
 };
 
 static const struct SpriteFrameImage sPicTable_RubySapphireMay[] = {
-    overworld_ascending_frames(gObjectEventPic_RubySapphireMayNormal, 2, 4),
+    overworld_ascending_frames(gObjectEventPic_RubySapphireMayNormal, 4, 4),
 };
