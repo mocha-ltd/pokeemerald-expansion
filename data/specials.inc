@@ -563,3 +563,9 @@ gSpecials::
 	def_special UseBlankMessageToCancelPokemonPic
 	def_special EnterCode
 	def_special GetCodeFeedback
+	def_special GetHpIV
+	def_special GetAtkIV
+	def_special GetDefIV
+	def_special GetSpAtkIV
+	def_special GetSpDefIV
+	def_special GetSpeedIV
