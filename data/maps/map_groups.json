@@ -629,6 +629,12 @@
     "DistortedPath",
     "OldElderoot",
     "OldElderoot_SageHouse",
-    "OldElderootCave"
+    "OldElderootCave",
+    "Route1",
+    "ElderootTown_DonnaHouse",
+    "ElderootTown_GranHouse",
+    "Route2",
+    "Route2_GardenerHouse",
+    "Route2_PaintersHouse"
   ]
 }

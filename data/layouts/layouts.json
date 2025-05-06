@@ -4437,7 +4437,7 @@
       "width": 10,
       "height": 8,
       "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_GenericBuilding",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
       "border_filepath": "data/layouts/ElderootTown_PlayersHouse_2F/border.bin",
       "blockdata_filepath": "data/layouts/ElderootTown_PlayersHouse_2F/map.bin"
     },
@@ -4480,6 +4480,66 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/OldElderootCave/border.bin",
       "blockdata_filepath": "data/layouts/OldElderootCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE1",
+      "name": "Route1_Layout",
+      "width": 18,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fallarbor",
+      "border_filepath": "data/layouts/Route1/border.bin",
+      "blockdata_filepath": "data/layouts/Route1/map.bin"
+    },
+    {
+      "id": "LAYOUT_ELDEROOT_TOWN_DONNA_HOUSE",
+      "name": "ElderootTown_DonnaHouse_Layout",
+      "width": 10,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/ElderootTown_DonnaHouse/border.bin",
+      "blockdata_filepath": "data/layouts/ElderootTown_DonnaHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_ELDEROOT_TOWN_GRAN_HOUSE",
+      "name": "ElderootTown_GranHouse_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/ElderootTown_GranHouse/border.bin",
+      "blockdata_filepath": "data/layouts/ElderootTown_GranHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2",
+      "name": "Route2_Layout",
+      "width": 100,
+      "height": 22,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route2/border.bin",
+      "blockdata_filepath": "data/layouts/Route2/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2_GARDENER_HOUSE",
+      "name": "Route2_GardenerHouse_Layout",
+      "width": 10,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PrettyPetalFlowerShop",
+      "border_filepath": "data/layouts/Route2_GardenerHouse/border.bin",
+      "blockdata_filepath": "data/layouts/Route2_GardenerHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2_PAINTERS_HOUSE",
+      "name": "Route2_PaintersHouse_Layout",
+      "width": 10,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route2_PaintersHouse/border.bin",
+      "blockdata_filepath": "data/layouts/Route2_PaintersHouse/map.bin"
     }
   ]
 }

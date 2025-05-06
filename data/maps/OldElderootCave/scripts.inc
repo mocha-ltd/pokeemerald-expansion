@@ -1,4 +1,6 @@
 OldElderootCave_MapScripts::
+# 2 "data/maps/OldElderootCave/scripts.pory"
+	map_script MAP_SCRIPT_ON_FRAME_TABLE, OldElderootCave_MapScripts_MAP_SCRIPT_ON_FRAME_TABLE
 	.byte 0
 
 OldElderootCave_MapScripts_MAP_SCRIPT_ON_FRAME_TABLE:

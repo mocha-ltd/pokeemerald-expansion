@@ -1168,3 +1168,15 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/OldElderoot_SageHouse/scripts.inc"
 
 	.include "data/maps/OldElderootCave/scripts.inc"
+
+	.include "data/maps/Route1/scripts.inc"
+
+	.include "data/maps/ElderootTown_DonnaHouse/scripts.inc"
+
+	.include "data/maps/ElderootTown_GranHouse/scripts.inc"
+
+	.include "data/maps/Route2/scripts.inc"
+
+	.include "data/maps/Route2_GardenerHouse/scripts.inc"
+
+	.include "data/maps/Route2_PaintersHouse/scripts.inc"
