@@ -51,7 +51,7 @@ static void PokecenterHealEffect_Init(struct Task *);
 static void PokecenterHealEffect_WaitForBallPlacement(struct Task *);
 static void PokecenterHealEffect_WaitForBallFlashing(struct Task *);
 static void PokecenterHealEffect_WaitForSoundAndEnd(struct Task *);
-static u8 CreatePokecenterMonitorSprite(s16, s16);
+//static u8 CreatePokecenterMonitorSprite(s16, s16);
 static void SpriteCB_PokecenterMonitor(struct Sprite *);
 
 static void Task_HallOfFameRecord(u8 taskId);
@@ -1039,9 +1039,9 @@ bool8 FldEff_PokecenterHeal(void)
     task = &gTasks[CreateTask(Task_PokecenterHeal, 0xff)];
     task->tNumMons = nPokemon;
     task->tFirstBallX = 93;
-    task->tFirstBallY = 36;
-    task->tMonitorX = 124;
-    task->tMonitorY = 24;
+    task->tFirstBallY = 30;
+    //task->tMonitorX = 124;
+    //task->tMonitorY = 24;
     return FALSE;
 }
 
@@ -1056,7 +1056,7 @@ static void PokecenterHealEffect_Init(struct Task *task)
 {
     task->tState++;
     task->tBallSpriteId = CreateGlowingPokeballsEffect(task->tNumMons, task->tFirstBallX, task->tFirstBallY, TRUE);
-    task->tMonitorSpriteId = CreatePokecenterMonitorSprite(task->tMonitorX, task->tMonitorY);
+    //task->tMonitorSpriteId = CreatePokecenterMonitorSprite(task->tMonitorX, task->tMonitorY);
 }
 
 static void PokecenterHealEffect_WaitForBallPlacement(struct Task *task)
@@ -1283,17 +1283,17 @@ static void SpriteCB_PokeballGlow(struct Sprite *sprite)
     }
 }
 
-static u8 CreatePokecenterMonitorSprite(s16 x, s16 y)
-{
-    u8 spriteId;
-    struct Sprite *sprite;
-    spriteId = CreateSpriteAtEnd(&sSpriteTemplate_PokecenterMonitor, x, y, 0);
-    sprite = &gSprites[spriteId];
-    sprite->oam.priority = 2;
-    sprite->invisible = TRUE;
-    SetSubspriteTables(sprite, &sSubspriteTable_PokecenterMonitor);
-    return spriteId;
-}
+// static u8 CreatePokecenterMonitorSprite(s16 x, s16 y)
+//{
+    //u8 spriteId;
+    //struct Sprite *sprite;
+    //spriteId = CreateSpriteAtEnd(&sSpriteTemplate_PokecenterMonitor, x, y, 0);
+    //sprite = &gSprites[spriteId];
+    //sprite->oam.priority = 2;
+    //sprite->invisible = TRUE;
+    //SetSubspriteTables(sprite, &sSubspriteTable_PokecenterMonitor);
+    //return spriteId;
+//}
 
 static void SpriteCB_PokecenterMonitor(struct Sprite *sprite)
 {
