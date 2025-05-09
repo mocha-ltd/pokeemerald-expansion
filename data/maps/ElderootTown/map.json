@@ -322,6 +322,24 @@
       "var": "VAR_ELDEROOT_TOWN_STATE",
       "var_value": "4",
       "script": "ElderootTown_EventScript_BetterCheckItOut"
+    },
+    {
+      "type": "trigger",
+      "x": 0,
+      "y": 19,
+      "elevation": 0,
+      "var": "VAR_ELDEROOT_TOWN_STATE",
+      "var_value": "4",
+      "script": "ElderootTown_EventScript_BetterCheckItOut"
+    },
+    {
+      "type": "trigger",
+      "x": 1,
+      "y": 19,
+      "elevation": 0,
+      "var": "VAR_ELDEROOT_TOWN_STATE",
+      "var_value": "8",
+      "script": "ElderootTown_EventScript_SayGoodbye"
     }
   ],
   "bg_events": [

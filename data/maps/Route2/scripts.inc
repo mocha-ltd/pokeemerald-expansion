@@ -102,6 +102,18 @@ Route2_EventScript_Becky::
 	end
 
 
+Route2_EventScript_ItemBall::
+# 145 "data/maps/Route2/scripts.pory"
+	lock
+# 146 "data/maps/Route2/scripts.pory"
+	removeobject 11
+# 147 "data/maps/Route2/scripts.pory"
+	giveitem ITEM_FRESH_WATER
+# 148 "data/maps/Route2/scripts.pory"
+	release
+	return
+
+
 # 65 "data/maps/Route2/scripts.pory"
 Route2_EventScript_PicnicBoy_Movement_0:
 # 65 "data/maps/Route2/scripts.pory"

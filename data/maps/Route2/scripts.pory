@@ -140,3 +140,10 @@ text Route2_Text_BeckyOutro {
 text Route2_Text_BeckyPostBattle {
     format("Maybe if I keep training my Pokémon, they can find more berries!")
 }
+
+script Route2_EventScript_ItemBall {
+    lock
+    removeobject(11)
+    giveitem(ITEM_FRESH_WATER)
+    release
+}

@@ -225,4 +225,3 @@ OldElderoot_SageHouse_EventScript_GoForth_Text_0:
 # 65 "data/maps/OldElderoot_SageHouse/scripts.pory"
 	.string "I have given you all of the help I can.\n"
 	.string "Go forth, young one, and grow strong!$"
-

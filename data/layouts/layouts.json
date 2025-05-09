@@ -4540,6 +4540,116 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/Route2_PaintersHouse/border.bin",
       "blockdata_filepath": "data/layouts/Route2_PaintersHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_TOWN",
+      "name": "ShivervaleTown_Layout",
+      "width": 30,
+      "height": 34,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/ShivervaleTown/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_TOWN_POKEMON_CENTER_1F",
+      "name": "ShivervaleTown_PokemonCenter_1F_Layout",
+      "width": 14,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_pokecenter",
+      "border_filepath": "data/layouts/ShivervaleTown_PokemonCenter_1F/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleTown_PokemonCenter_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_TOWN_MART",
+      "name": "ShivervaleTown_Mart_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/ShivervaleTown_Mart/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleTown_Mart/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_TOWN_DRINK_SHOP",
+      "name": "ShivervaleTown_DrinkShop_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/ShivervaleTown_DrinkShop/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleTown_DrinkShop/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_TOWN_CUTTERS_HOUSE",
+      "name": "ShivervaleTown_CuttersHouse_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/ShivervaleTown_CuttersHouse/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleTown_CuttersHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_GYM_EXTERIOR",
+      "name": "ShivervaleGym_Exterior_Layout",
+      "width": 19,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_dojoexterior",
+      "border_filepath": "data/layouts/ShivervaleGym_Exterior/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleGym_Exterior/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_TOWN_HOUSE1",
+      "name": "ShivervaleTown_House1_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_BrendansMaysHouse",
+      "border_filepath": "data/layouts/ShivervaleTown_House1/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleTown_House1/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_GYM",
+      "name": "ShivervaleGym_Layout",
+      "width": 15,
+      "height": 18,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_dojointerior",
+      "border_filepath": "data/layouts/ShivervaleGym/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleGym/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_GYM_POST_BATTLE",
+      "name": "ShivervaleGym_PostBattle_Layout",
+      "width": 15,
+      "height": 18,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_dojointerior",
+      "border_filepath": "data/layouts/ShivervaleGym_PostBattle/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleGym_PostBattle/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHIVERVALE_GYM_BASEMENT",
+      "name": "ShivervaleGym_Basement_Layout",
+      "width": 15,
+      "height": 18,
+      "primary_tileset": "gTileset_PyramidInterior",
+      "secondary_tileset": "gTileset_PyramidInteriorSecondary",
+      "border_filepath": "data/layouts/ShivervaleGym_Basement/border.bin",
+      "blockdata_filepath": "data/layouts/ShivervaleGym_Basement/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE3",
+      "name": "Route3_Layout",
+      "width": 20,
+      "height": 39,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route3/border.bin",
+      "blockdata_filepath": "data/layouts/Route3/map.bin"
     }
   ]
 }

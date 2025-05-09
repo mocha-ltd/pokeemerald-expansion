@@ -1180,3 +1180,25 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/Route2_GardenerHouse/scripts.inc"
 
 	.include "data/maps/Route2_PaintersHouse/scripts.inc"
+
+	.include "data/maps/ShivervaleTown/scripts.inc"
+
+	.include "data/maps/ShivervaleTown_PokemonCenter_1F/scripts.inc"
+
+	.include "data/maps/ShivervaleTown_Mart/scripts.inc"
+
+	.include "data/maps/ShivervaleTown_DrinkShop/scripts.inc"
+
+	.include "data/maps/ShivervaleTown_CuttersHouse/scripts.inc"
+
+	.include "data/maps/ShivervaleGym_Exterior/scripts.inc"
+
+	.include "data/maps/ShivervaleTown_House1/scripts.inc"
+
+	.include "data/maps/ShivervaleGym/scripts.inc"
+
+	.include "data/maps/ShivervaleGym_PostBattle/scripts.inc"
+
+	.include "data/maps/ShivervaleGym_Basement/scripts.inc"
+
+	.include "data/maps/Route3/scripts.inc"

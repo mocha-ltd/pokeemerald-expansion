@@ -34,7 +34,8 @@
     "gMapGroup_IndoorRoute123",
     "gMapGroup_IndoorRoute119",
     "gMapGroup_IndoorRoute124",
-    "gMapGroup_ElderootTown"
+    "gMapGroup_ElderootTown",
+    "gMapGroup_ShivervaleTown"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -636,5 +637,18 @@
     "Route2",
     "Route2_GardenerHouse",
     "Route2_PaintersHouse"
+  ],
+  "gMapGroup_ShivervaleTown": [
+    "ShivervaleTown",
+    "ShivervaleTown_PokemonCenter_1F",
+    "ShivervaleTown_Mart",
+    "ShivervaleTown_DrinkShop",
+    "ShivervaleTown_CuttersHouse",
+    "ShivervaleGym_Exterior",
+    "ShivervaleTown_House1",
+    "ShivervaleGym",
+    "ShivervaleGym_PostBattle",
+    "ShivervaleGym_Basement",
+    "Route3"
   ]
 }

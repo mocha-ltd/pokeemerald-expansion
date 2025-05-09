@@ -53,22 +53,24 @@ ElderootTown_EventScript_GetPotions::
 # 31 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
 	setflag FLAG_SYS_POKEDEX_GET
 # 32 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
-	special SetUnlockedPokedexFlags
+	setflag FLAG_SYS_NATIONAL_DEX
 # 33 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
+	special SetUnlockedPokedexFlags
+# 34 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
 	msgbox ElderootTown_EventScript_GetPotions_Text_1
-# 36 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
-	closemessage
 # 37 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
+	closemessage
+# 38 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
 	releaseall
 	end
 
 
 ElderootTown_EventScript_PikachuDoll::
-# 42 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
-	lockall
 # 43 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
-	msgbox ElderootTown_EventScript_PikachuDoll_Text_0
+	lockall
 # 44 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
+	msgbox ElderootTown_EventScript_PikachuDoll_Text_0
+# 46 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
 	releaseall
 	end
 
@@ -83,13 +85,13 @@ ElderootTown_EventScript_GetPotions_Text_0:
 	.string "{PLAYER} received a Pokédex!$"
 
 ElderootTown_EventScript_GetPotions_Text_1:
-# 33 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
+# 34 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
 	.string "What is a Pokédex?\p"
 	.string "I wonder what it does...\p"
 	.string "I'll figure it out later.$"
 
 ElderootTown_EventScript_PikachuDoll_Text_0:
-# 43 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
+# 44 "data/maps/ElderootTown_PlayersHouse_2F/scripts.pory"
 	.string "Mom got me this Pikachu doll for my\n"
 	.string "birthday a few years ago.\p"
 	.string "Pokémon have become so popular in\n"
