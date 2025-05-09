@@ -847,3 +847,58 @@ const struct Tileset gTileset_gTileset_distortion =
     .metatileAttributes = gMetatileAttributes_gTileset_distortion,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_pokecenter =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_pokecenter,
+    .palettes = gTilesetPalettes_pokecenter,
+    .metatiles = gMetatiles_pokecenter,
+    .metatileAttributes = gMetatileAttributes_pokecenter,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_dojoexterior =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_dojoexterior,
+    .palettes = gTilesetPalettes_dojoexterior,
+    .metatiles = gMetatiles_dojoexterior,
+    .metatileAttributes = gMetatileAttributes_dojoexterior,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_dojointerior =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_dojointerior,
+    .palettes = gTilesetPalettes_dojointerior,
+    .metatiles = gMetatiles_dojointerior,
+    .metatileAttributes = gMetatileAttributes_dojointerior,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_PyramidInterior =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_PyramidInterior,
+    .palettes = gTilesetPalettes_PyramidInterior,
+    .metatiles = gMetatiles_PyramidInterior,
+    .metatileAttributes = gMetatileAttributes_PyramidInterior,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_PyramidInteriorSecondary =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_PyramidInteriorSecondary,
+    .palettes = gTilesetPalettes_PyramidInteriorSecondary,
+    .metatiles = gMetatiles_PyramidInteriorSecondary,
+    .metatileAttributes = gMetatileAttributes_PyramidInteriorSecondary,
+    .callback = NULL,
+};
