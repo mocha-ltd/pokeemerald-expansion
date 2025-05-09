@@ -81,6 +81,28 @@ Gender: Male
 Music: Male
 Double Battle: No
 
+=== TRAINER_SILVER_SHIVERVALE ===
+Name: ???
+Class: Rival
+Pic: Silver
+Gender: Male
+Music: Intense
+Items: Super Potion
+Double Battle: No
+AI: Smart Trainer
+
+Rockruff
+Level: 14
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+
+Abra
+Level: 15
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Psybeam
+- Disable
+- Swift
+- Reflect
+
 === TRAINER_SAWYER_1 ===
 Name: SAWYER
 Class: Hiker
@@ -3816,9 +3838,13 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Shroomish
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Slakoth
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+
+Beedrill
+Level: 13
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_TRAVIS ===
 Name: TRAVIS
@@ -3925,6 +3951,8 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 Dwebble
 Level: 7
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
+
+/*Route 2*/
 
 === TRAINER_DONALD ===
 Name: DONALD
@@ -5961,6 +5989,8 @@ Caterpie
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+/*Route 2*/
+
 === TRAINER_BILLY ===
 Name: BILLY
 Class: Youngster
@@ -5977,6 +6007,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Seedot
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+/*Route 2*/
 
 === TRAINER_JOSH ===
 Name: JOSH
@@ -6408,6 +6440,8 @@ Tympole
 Level: 6
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
+/*Route 2*/
+
 === TRAINER_DALE ===
 Name: DALE
 Class: Fisherman
@@ -6631,17 +6665,13 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Voltorb
-Level: 6
-IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
+SPECIES_NIDORAN_M
+Level: 11
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
-Voltorb
-Level: 6
-IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
-
-Magnemite
-Level: 14
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Shroomish
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_ANTHONY ===
 Name: ANTHONY
@@ -8570,12 +8600,14 @@ Double Battle: No
 AI: Basic Trainer
 
 Rookidee
-Level: 7
+Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Caterpie
-Level: 8
+Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+/*Route 2*/
 
 === TRAINER_CAROL ===
 Name: CAROL
@@ -9233,6 +9265,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Flamethrower
 - Solar Beam
 
+/*Shivervale Gym*/
+
 === TRAINER_AURON ===
 Name: AURON
 Class: Expert
@@ -9242,13 +9276,13 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Manectric
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Poochyena
+Level: 10
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
-Machamp
-Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+SPECIES_RATTATA_ALOLA
+Level: 12
+IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KELVIN ===
 Name: KELVIN
@@ -9877,9 +9911,13 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Pinsir
-Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Spinarak
+Level: 12
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+
+Venipede
+Level: 13
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_MITCHELL ===
 Name: MITCHELL
@@ -12971,6 +13009,8 @@ SPECIES_ZIGZAGOON_GALAR
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
+/*Route 2*/
+
 === TRAINER_DARIAN ===
 Name: DARIAN
 Class: Fisherman
@@ -15981,17 +16021,38 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LUCY ===
-Name: LUCY
-Class: Pike Queen
+Name: SELENE
+Class: Leader
 Pic: Pike Queen Lucy
 Gender: Female
-Music: Male
+Music: Elite Four
+Items: Potion / Potion
 Double Battle: No
 AI: Smart Trainer
 
-Beldum
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+SPECIES_ZIGZAGOON_GALAR
+Level: 12
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Headbutt
+- Thief
+- Lick
+- Sand Attack
+
+Houndour
+Level: 13
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Ember
+- Roar
+- Howl
+- Thief
+
+Impidimp
+Level: 14
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Fake Out
+- Bite
+- Confide
+- Flatter
 
 === TRAINER_BRANDON ===
 Name: BRANDON
