@@ -4650,6 +4650,16 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route3/border.bin",
       "blockdata_filepath": "data/layouts/Route3/map.bin"
+    },
+    {
+      "id": "LAYOUT_EVERGREEN_FOREST",
+      "name": "EvergreenForest_Layout",
+      "width": 36,
+      "height": 52,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_ShadyForest",
+      "border_filepath": "data/layouts/EvergreenForest/border.bin",
+      "blockdata_filepath": "data/layouts/EvergreenForest/map.bin"
     }
   ]
 }

@@ -360,6 +360,7 @@ const struct TrainerClass gTrainerClasses[TRAINER_CLASS_COUNT] =
     [TRAINER_CLASS_PIKE_QUEEN] = { _("PIKE QUEEN") },
     [TRAINER_CLASS_PYRAMID_KING] = { _("PYRAMID KING") },
     [TRAINER_CLASS_RS_PROTAG] = { _("{PKMN} TRAINER") },
+    [TRAINER_CLASS_TEAM_UMBRA] = { _("TEAM UMBRA") },
 };
 
 static void (* const sTurnActionsFuncsTable[])(void) =
@@ -5418,6 +5419,7 @@ static void HandleEndTurn_BattleWon(void)
         case TRAINER_CLASS_CHAMPION:
             PlayBGM(MUS_VICTORY_LEAGUE);
             break;
+        case TRAINER_CLASS_TEAM_UMBRA:
         case TRAINER_CLASS_TEAM_AQUA:
         case TRAINER_CLASS_TEAM_MAGMA:
         case TRAINER_CLASS_AQUA_ADMIN:

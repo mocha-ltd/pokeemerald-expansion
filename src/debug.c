@@ -3951,6 +3951,7 @@ static void DebugAction_Sound_MUS_SelectId(u8 taskId)
     X(MUS_B_DOME_LOBBY) \
     X(MUS_VS_WILD) \
     X(MUS_VS_AQUA_MAGMA) \
+    X(MUS_VS_UMBRA) \
     X(MUS_VS_TRAINER) \
     X(MUS_VS_GYM_LEADER) \
     X(MUS_VS_CHAMPION) \

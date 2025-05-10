@@ -124,6 +124,12 @@ $(OBJEVENTGFXDIR)/people/may/underwater.4bpp: %.4bpp: %.png
 $(OBJEVENTGFXDIR)/people/silver.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -mwidth 4 -mheight 4
 
+$(OBJEVENTGFXDIR)/people/male_umbra_grunt.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -mwidth 4 -mheight 4
+
+$(OBJEVENTGFXDIR)/people/female_umbra_grunt.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -mwidth 4 -mheight 4
+
 $(OBJEVENTGFXDIR)/people/ruby_sapphire_brendan/walking.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -mwidth 2 -mheight 4
 

@@ -237,6 +237,8 @@ extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_RubySapphir
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Lugia;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Silver;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_HoOh;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_UmbraGruntM;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_UmbraGruntF;
 // Begin pokemon event objects
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_PokeBall;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Follower;
@@ -491,6 +493,8 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_POKE_BALL] =                &gObjectEventGraphicsInfo_PokeBall,
     [OBJ_EVENT_GFX_OW_MON] =                   &gObjectEventGraphicsInfo_Follower,
     [OBJ_EVENT_GFX_SILVER] =                   &gObjectEventGraphicsInfo_Silver,
+    [OBJ_EVENT_GFX_UMBRA_GRUNT_M] =            &gObjectEventGraphicsInfo_UmbraGruntM,
+    [OBJ_EVENT_GFX_UMBRA_GRUNT_F] =            &gObjectEventGraphicsInfo_UmbraGruntF,
 };
 
 const struct ObjectEventGraphicsInfo *const gMauvilleOldManGraphicsInfoPointers[] = {

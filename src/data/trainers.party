@@ -116,35 +116,39 @@ Geodude
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_GRUNT_AQUA_HIDEOUT_1 ===
+=== TRAINER_GRUNT1_EVERGREEN_FOREST ===
 Name: GRUNT
-Class: Team Aqua
-Pic: Aqua Grunt M
+Class: TRAINER_CLASS_TEAM_UMBRA
+Pic: TRAINER_PIC_UMBRA_GRUNT_M
 Gender: Male
 Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Poochyena
-Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+SPECIES_ZORUA_HISUI
+Level: 12
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
-=== TRAINER_GRUNT_AQUA_HIDEOUT_2 ===
+Murkrow
+Level: 14
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
+
+=== TRAINER_GRUNT2_EVERGREEN_FOREST ===
 Name: GRUNT
-Class: Team Aqua
-Pic: Aqua Grunt M
+Class: TRAINER_CLASS_TEAM_UMBRA
+Pic: TRAINER_PIC_UMBRA_GRUNT_F
 Gender: Male
 Music: Aqua
 Double Battle: No
 AI: Basic Trainer
 
-Zubat
-Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Misdreavus
+Level: 13
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
-Carvanha
-Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Murkrow
+Level: 14
+IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_3 ===
 Name: GRUNT
@@ -3984,16 +3988,16 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Wurmple
-Level: 27
+Dunsparce
+Level: 12
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Cascoon
-Level: 27
+Lotad
+Level: 13
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
-Dustox
-Level: 27
+Spinarak
+Level: 13
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_JEFFREY_1 ===

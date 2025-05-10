@@ -1202,3 +1202,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/ShivervaleGym_Basement/scripts.inc"
 
 	.include "data/maps/Route3/scripts.inc"
+
+	.include "data/maps/EvergreenForest/scripts.inc"

@@ -22,6 +22,12 @@ const u32 gTrainerPalette_Collector[] = INCBIN_U32("graphics/trainers/front_pics
 const u32 gTrainerFrontPic_AquaGruntF[] = INCBIN_U32("graphics/trainers/front_pics/aqua_grunt_f.4bpp.lz");
 const u32 gTrainerPalette_AquaGruntF[] = INCBIN_U32("graphics/trainers/front_pics/aqua_grunt_f.gbapal.lz");
 
+const u32 gTrainerFrontPic_UmbraGruntF[] = INCBIN_U32("graphics/trainers/front_pics/umbra_f.4bpp.lz");
+const u32 gTrainerPalette_UmbraGruntF[] = INCBIN_U32("graphics/trainers/front_pics/umbra_f.gbapal.lz");
+
+const u32 gTrainerFrontPic_UmbraGruntM[] = INCBIN_U32("graphics/trainers/front_pics/umbra_m.4bpp.lz");
+const u32 gTrainerPalette_UmbraGruntM[] = INCBIN_U32("graphics/trainers/front_pics/umbra_m.gbapal.lz");
+
 const u32 gTrainerFrontPic_SwimmerM[] = INCBIN_U32("graphics/trainers/front_pics/swimmer_m.4bpp.lz");
 const u32 gTrainerPalette_SwimmerM[] = INCBIN_U32("graphics/trainers/front_pics/swimmer_m.gbapal.lz");
 
@@ -405,6 +411,8 @@ const struct TrainerSprite gTrainerSprites[] =
     TRAINER_SPRITE(TRAINER_PIC_RS_BRENDAN, gTrainerFrontPic_RubySapphireBrendan, gTrainerPalette_RubySapphireBrendan),
     TRAINER_SPRITE(TRAINER_PIC_RS_MAY, gTrainerFrontPic_RubySapphireMay, gTrainerPalette_RubySapphireMay),
     TRAINER_SPRITE(TRAINER_PIC_SILVER, gTrainerFrontPic_Silver, gTrainerPalette_Silver),
+    TRAINER_SPRITE(TRAINER_PIC_UMBRA_GRUNT_F, gTrainerFrontPic_UmbraGruntF, gTrainerPalette_UmbraGruntF),
+    TRAINER_SPRITE(TRAINER_PIC_UMBRA_GRUNT_M, gTrainerFrontPic_UmbraGruntM, gTrainerPalette_UmbraGruntM),
 };
 
 static const union AnimCmd sAnimCmd_Hoenn[] =
