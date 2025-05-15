@@ -477,7 +477,6 @@ gSongTable::
 	song mus_b_dome_lobby, 0, 0
 	song mus_vs_wild, 0, 0
 	song mus_vs_aqua_magma, 0, 0
-	song mus_vs_umbra, 0, 0
 	song mus_vs_trainer, 0, 0
 	song mus_vs_gym_leader, 0, 0
 	song mus_vs_champion, 0, 0
@@ -612,6 +611,7 @@ gSongTable::
 	song ph_nurse_blend, 2, 2
 	song ph_nurse_held, 2, 2
 	song ph_nurse_solo, 2, 2
+	song mus_vs_umbra, 0, 0
 
 	.align 2
 dummy_song_header:
