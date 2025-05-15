@@ -114,7 +114,7 @@ AI: Smart Trainer
 
 Geodude
 Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT1_EVERGREEN_FOREST ===
 Name: GRUNT
@@ -123,7 +123,7 @@ Pic: TRAINER_PIC_UMBRA_GRUNT_M
 Gender: Male
 Music: Aqua
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 SPECIES_ZORUA_HISUI
 Level: 12
@@ -137,10 +137,10 @@ IVs: 8 HP / 8 Atk / 8 Def / 8 SpA / 8 SpD / 8 Spe
 Name: GRUNT
 Class: TRAINER_CLASS_TEAM_UMBRA
 Pic: TRAINER_PIC_UMBRA_GRUNT_F
-Gender: Male
+Gender: Female
 Music: Aqua
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
 Misdreavus
 Level: 13
@@ -161,7 +161,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_4 ===
 Name: GRUNT
@@ -174,7 +174,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_1 ===
 Name: GRUNT
@@ -187,7 +187,7 @@ AI: Basic Trainer
 
 Poochyena
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_2 ===
 Name: GRUNT
@@ -200,7 +200,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_3 ===
 Name: GRUNT
@@ -213,7 +213,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GABRIELLE_1 ===
 Name: GABRIELLE
@@ -226,27 +226,27 @@ AI: Basic Trainer
 
 Skitty
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Poochyena
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zigzagoon
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lotad
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Seedot
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Taillow
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_PETALBURG_WOODS ===
 Name: GRUNT
@@ -259,7 +259,7 @@ AI: Basic Trainer
 
 Poochyena
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MARCEL ===
 Name: MARCEL
@@ -290,11 +290,11 @@ AI: Basic Trainer
 
 Pelipper
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Xatu
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ED ===
 Name: ED
@@ -307,11 +307,11 @@ AI: Basic Trainer
 
 Zangoose
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Seviper
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_4 ===
 Name: GRUNT
@@ -324,7 +324,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DECLAN ===
 Name: DECLAN
@@ -337,7 +337,7 @@ AI: Basic Trainer
 
 Gyarados
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_RUSTURF_TUNNEL ===
 Name: GRUNT
@@ -350,7 +350,7 @@ AI: Basic Trainer
 
 Poochyena
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_1 ===
 Name: GRUNT
@@ -363,11 +363,11 @@ AI: Basic Trainer
 
 Zubat
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Poochyena
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_2 ===
 Name: GRUNT
@@ -380,11 +380,11 @@ AI: Basic Trainer
 
 Poochyena
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_3 ===
 Name: GRUNT
@@ -397,15 +397,15 @@ AI: Basic Trainer
 
 Poochyena
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zubat
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MUSEUM_1 ===
 Name: GRUNT
@@ -418,7 +418,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MUSEUM_2 ===
 Name: GRUNT
@@ -431,11 +431,11 @@ AI: Basic Trainer
 
 Zubat
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_1 ===
 Name: GRUNT
@@ -448,7 +448,7 @@ AI: Basic Trainer
 
 Numel
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MT_PYRE_1 ===
 Name: GRUNT
@@ -461,7 +461,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MT_PYRE_2 ===
 Name: GRUNT
@@ -474,7 +474,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MT_PYRE_3 ===
 Name: GRUNT
@@ -487,11 +487,11 @@ AI: Basic Trainer
 
 Poochyena
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_4 ===
 Name: GRUNT
@@ -504,7 +504,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_5 ===
 Name: GRUNT
@@ -517,7 +517,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_6 ===
 Name: GRUNT
@@ -530,7 +530,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_FREDRICK ===
 Name: FREDRICK
@@ -578,7 +578,7 @@ AI: Basic Trainer
 
 Hariyama
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHELLY_WEATHER_INSTITUTE ===
 Name: SHELLY
@@ -645,9 +645,13 @@ Music: Suspicious
 Double Battle: No
 AI: Basic Trainer
 
-Spoink
-Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ralts
+Level: 14
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
+
+Phantump
+Level: 15
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DAISY ===
 Name: DAISY
@@ -660,11 +664,11 @@ AI: Basic Trainer
 
 Shroomish
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Roselia
-Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Exeggcute
+Level: 16
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ROSE_1 ===
 Name: ROSE
@@ -677,15 +681,15 @@ AI: Basic Trainer
 
 Roselia
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shroomish
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Roselia
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_FELIX ===
 Name: FELIX
@@ -699,12 +703,12 @@ AI: Smart Trainer
 
 Medicham
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Psychic
 
 Claydol
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Skill Swap
 - Earthquake
 
@@ -719,11 +723,11 @@ AI: Basic Trainer
 
 Roselia
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gloom
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ROSE_2 ===
 Name: ROSE
@@ -1086,7 +1090,7 @@ AI: Basic Trainer
 
 Marill
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GWEN ===
 Name: GWEN
@@ -1099,7 +1103,7 @@ AI: Basic Trainer
 
 Marill
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LOLA_2 ===
 Name: LOLA
@@ -1197,11 +1201,11 @@ AI: Basic Trainer
 
 Azurill
 Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Marill
 Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CHARLIE ===
 Name: CHARLIE
@@ -1214,7 +1218,7 @@ AI: Basic Trainer
 
 Marill
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_RICKY_2 ===
 Name: RICKY
@@ -2001,11 +2005,11 @@ AI: Basic Trainer
 
 Banette
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lunatone
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KINDRA ===
 Name: KINDRA
@@ -2018,11 +2022,11 @@ AI: Basic Trainer
 
 Duskull
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shuppet
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TAMMY ===
 Name: TAMMY
@@ -2035,11 +2039,11 @@ AI: Basic Trainer
 
 Duskull
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shuppet
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_VALERIE_1 ===
 Name: VALERIE
@@ -2052,7 +2056,7 @@ AI: Basic Trainer
 
 Sableye
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TASHA ===
 Name: TASHA
@@ -2151,7 +2155,7 @@ AI: Basic Trainer
 
 Zigzagoon @ Nugget
 Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DAPHNE ===
 Name: DAPHNE
@@ -2190,15 +2194,15 @@ AI: Basic Trainer
 
 Mightyena
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Mightyena
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Numel
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CINDY_2 ===
 Name: CINDY
@@ -2212,7 +2216,7 @@ AI: Basic Trainer
 
 Zigzagoon @ Nugget
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Tackle
 - Tail Whip
 
@@ -2315,7 +2319,7 @@ AI: Basic Trainer
 
 Marill
 Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHEILA ===
 Name: SHEILA
@@ -2328,7 +2332,7 @@ AI: Basic Trainer
 
 Shroomish
 Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHIRLEY ===
 Name: SHIRLEY
@@ -2341,7 +2345,7 @@ AI: Basic Trainer
 
 Numel
 Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JESSICA_1 ===
 Name: JESSICA
@@ -2354,7 +2358,7 @@ AI: Basic Trainer
 
 Kecleon
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Bind
 - Lick
 - Fury Swipes
@@ -2362,7 +2366,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Seviper
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Tail
 - Screech
 - Glare
@@ -2555,7 +2559,7 @@ AI: Basic Trainer
 
 Zigzagoon @ Nugget
 Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MOLLIE ===
 Name: MOLLIE
@@ -2568,7 +2572,7 @@ AI: Basic Trainer
 
 Whiscash
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Meditite
 Level: 33
@@ -2586,7 +2590,7 @@ AI: Basic Trainer
 
 Azumarill @ Nugget
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WINSTON_2 ===
 Name: WINSTON
@@ -2600,7 +2604,7 @@ AI: Basic Trainer
 
 Linoone @ Nugget
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WINSTON_3 ===
 Name: WINSTON
@@ -2614,7 +2618,7 @@ AI: Basic Trainer
 
 Linoone @ Nugget
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WINSTON_4 ===
 Name: WINSTON
@@ -2628,7 +2632,7 @@ AI: Basic Trainer
 
 Linoone @ Nugget
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WINSTON_5 ===
 Name: WINSTON
@@ -2642,7 +2646,7 @@ AI: Basic Trainer
 
 Linoone @ Nugget
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Fury Swipes
 - Mud Sport
 - Odor Sleuth
@@ -2659,7 +2663,7 @@ AI: Basic Trainer
 
 Aron
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_THALIA_1 ===
 Name: THALIA
@@ -2672,11 +2676,11 @@ AI: Basic Trainer
 
 Wailmer
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Horsea
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MARK ===
 Name: MARK
@@ -2689,7 +2693,7 @@ AI: Basic Trainer
 
 Rhyhorn
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MT_CHIMNEY_1 ===
 Name: GRUNT
@@ -2702,7 +2706,7 @@ AI: Basic Trainer
 
 Numel
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_STEVE_2 ===
 Name: STEVE
@@ -2779,7 +2783,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DOMINIK ===
 Name: DOMINIK
@@ -2792,7 +2796,7 @@ AI: Basic Trainer
 
 Tentacool
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DOUGLAS ===
 Name: DOUGLAS
@@ -2843,7 +2847,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JEROME ===
 Name: JEROME
@@ -2856,7 +2860,7 @@ AI: Basic Trainer
 
 Tentacruel
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MATTHEW ===
 Name: MATTHEW
@@ -2869,7 +2873,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DAVID ===
 Name: DAVID
@@ -2882,11 +2886,11 @@ AI: Basic Trainer
 
 Tentacool
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SPENCER ===
 Name: SPENCER
@@ -2899,11 +2903,11 @@ AI: Basic Trainer
 
 Tentacool
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wingull
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ROLAND ===
 Name: ROLAND
@@ -2916,7 +2920,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NOLEN ===
 Name: NOLEN
@@ -2929,7 +2933,7 @@ AI: Basic Trainer
 
 Tentacruel
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_STAN ===
 Name: STAN
@@ -2942,7 +2946,7 @@ AI: Basic Trainer
 
 Horsea
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BARRY ===
 Name: BARRY
@@ -2955,7 +2959,7 @@ AI: Basic Trainer
 
 Gyarados
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DEAN ===
 Name: DEAN
@@ -2968,15 +2972,15 @@ AI: Basic Trainer
 
 Carvanha
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wingull
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_RODNEY ===
 Name: RODNEY
@@ -2989,7 +2993,7 @@ AI: Basic Trainer
 
 Gyarados
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_RICHARD ===
 Name: RICHARD
@@ -3002,7 +3006,7 @@ AI: Basic Trainer
 
 Pelipper
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HERMAN ===
 Name: HERMAN
@@ -3015,11 +3019,11 @@ AI: Basic Trainer
 
 Wingull
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacruel
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SANTIAGO ===
 Name: SANTIAGO
@@ -3032,11 +3036,11 @@ AI: Basic Trainer
 
 Tentacruel
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GILBERT ===
 Name: GILBERT
@@ -3049,7 +3053,7 @@ AI: Basic Trainer
 
 Sharpedo
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_FRANKLIN ===
 Name: FRANKLIN
@@ -3062,7 +3066,7 @@ AI: Basic Trainer
 
 Sealeo
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KEVIN ===
 Name: KEVIN
@@ -3075,7 +3079,7 @@ AI: Basic Trainer
 
 Spheal
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JACK ===
 Name: JACK
@@ -3088,7 +3092,7 @@ AI: Basic Trainer
 
 Gyarados
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DUDLEY ===
 Name: DUDLEY
@@ -3101,15 +3105,15 @@ AI: Basic Trainer
 
 Tentacool
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wingull
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacruel
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CHAD ===
 Name: CHAD
@@ -3122,11 +3126,11 @@ AI: Basic Trainer
 
 Tentacool
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TONY_2 ===
 Name: TONY
@@ -3415,11 +3419,11 @@ AI: Basic Trainer
 
 Poochyena
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zubat
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_AQUA_HIDEOUT_8 ===
 Name: GRUNT
@@ -3432,7 +3436,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHAWN ===
 Name: SHAWN
@@ -3462,11 +3466,11 @@ AI: Basic Trainer
 
 Electrike
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Loudred
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DALTON_1 ===
 Name: DALTON
@@ -3479,11 +3483,11 @@ AI: Basic Trainer
 
 Magnemite
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Whismur
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DALTON_2 ===
 Name: DALTON
@@ -3649,11 +3653,11 @@ AI: Basic Trainer
 
 Slugma
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wingull
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BERNIE_2 ===
 Name: BERNIE
@@ -3732,13 +3736,13 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Sandshrew
-Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
+Nuzleaf
+Level: 13
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
+
+SPECIES_VOLTORB_HISUI
+Level: 14
+IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_BEAU ===
 Name: BEAU
@@ -3749,29 +3753,17 @@ Music: Male
 Double Battle: No
 AI: Basic Trainer
 
-Baltoy
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+Rockruff
+Level: 14
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Sandshrew
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Poison Sting
-- Sand Attack
-- Scratch
-- Dig
+Scyther
+Level: 14
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Baltoy
-Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+Vigoroth
+Level: 18
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LARRY ===
 Name: LARRY
@@ -3784,7 +3776,7 @@ AI: Basic Trainer
 
 Nuzleaf
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHANE ===
 Name: SHANE
@@ -3797,11 +3789,11 @@ AI: Basic Trainer
 
 Sandshrew
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nuzleaf
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JUSTIN ===
 Name: JUSTIN
@@ -3814,7 +3806,7 @@ AI: Basic Trainer
 
 Kecleon
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ETHAN_1 ===
 Name: ETHAN
@@ -3827,11 +3819,11 @@ AI: Basic Trainer
 
 Zigzagoon
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Taillow
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_AUTUMN ===
 Name: AUTUMN
@@ -3861,7 +3853,7 @@ AI: Basic Trainer
 
 Sandshrew
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ETHAN_2 ===
 Name: ETHAN
@@ -4011,15 +4003,15 @@ AI: Basic Trainer
 
 Surskit
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Surskit
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Surskit
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DEREK ===
 Name: DEREK
@@ -4145,7 +4137,7 @@ AI: Basic Trainer
 
 Abra
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Hidden Power
 
 === TRAINER_PRESTON ===
@@ -4198,15 +4190,15 @@ AI: Basic Trainer
 
 Ralts
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Ralts
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Kirlia
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JOSHUA ===
 Name: JOSHUA
@@ -4219,11 +4211,11 @@ AI: Basic Trainer
 
 Kadabra
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Solrock
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CAMERON_1 ===
 Name: CAMERON
@@ -4236,7 +4228,7 @@ AI: Basic Trainer
 
 Solrock
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CAMERON_2 ===
 Name: CAMERON
@@ -4317,7 +4309,7 @@ AI: Basic Trainer
 
 Abra
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Hidden Power
 
 === TRAINER_HANNAH ===
@@ -4370,15 +4362,15 @@ AI: Basic Trainer
 
 Wobbuffet
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Natu
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Kadabra
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALEXIS ===
 Name: ALEXIS
@@ -4391,11 +4383,11 @@ AI: Basic Trainer
 
 Kirlia
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Xatu
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JACKI_1 ===
 Name: JACKI
@@ -4408,11 +4400,11 @@ AI: Basic Trainer
 
 Kadabra
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lunatone
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JACKI_2 ===
 Name: JACKI
@@ -4493,7 +4485,7 @@ AI: Basic Trainer
 
 Manectric
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MICAH ===
 Name: MICAH
@@ -4506,11 +4498,11 @@ AI: Basic Trainer
 
 Manectric
 Level: 44
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Manectric
 Level: 44
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_THOMAS ===
 Name: THOMAS
@@ -4523,7 +4515,7 @@ AI: Basic Trainer
 
 Zangoose
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WALTER_2 ===
 Name: WALTER
@@ -5388,7 +5380,7 @@ AI: Basic Trainer
 
 Spinda
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Hypnosis
 - Psybeam
 - Dizzy Punch
@@ -5396,7 +5388,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Slaking
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Focus Punch
 - Yawn
 - Slack Off
@@ -5413,7 +5405,7 @@ AI: Basic Trainer
 
 Zigzagoon
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Growl
 - Tail Whip
 - Headbutt
@@ -5421,7 +5413,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Makuhita
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Tackle
 - Focus Energy
 - Arm Thrust
@@ -5550,7 +5542,7 @@ AI: Basic Trainer
 
 Skitty @ Oran Berry
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_COLTON ===
 Name: COLTON
@@ -5563,7 +5555,7 @@ AI: Basic Trainer
 
 Skitty @ Oran Berry
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Assist
 - Charm
 - Feint Attack
@@ -5571,7 +5563,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Skitty @ Oran Berry
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Assist
 - Charm
 - Feint Attack
@@ -5579,7 +5571,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Skitty @ Oran Berry
 Level: 40
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Assist
 - Charm
 - Feint Attack
@@ -5587,7 +5579,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Skitty @ Oran Berry
 Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Assist
 - Charm
 - Feint Attack
@@ -5595,7 +5587,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Skitty @ Oran Berry
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Assist
 - Charm
 - Feint Attack
@@ -5603,7 +5595,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Delcatty @ Oran Berry
 Level: 42
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Assist
 - Charm
 - Feint Attack
@@ -5620,7 +5612,7 @@ AI: Basic Trainer
 
 Skitty @ Oran Berry
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MIGUEL_3 ===
 Name: MIGUEL
@@ -5633,7 +5625,7 @@ AI: Basic Trainer
 
 Skitty @ Oran Berry
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MIGUEL_4 ===
 Name: MIGUEL
@@ -5646,7 +5638,7 @@ AI: Basic Trainer
 
 Delcatty @ Oran Berry
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MIGUEL_5 ===
 Name: MIGUEL
@@ -5659,7 +5651,7 @@ AI: Basic Trainer
 
 Delcatty @ Sitrus Berry
 Level: 38
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_VICTORIA ===
 Name: VICTORIA
@@ -5685,7 +5677,7 @@ AI: Basic Trainer
 
 Pikachu @ Oran Berry
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BETHANY ===
 Name: BETHANY
@@ -5719,11 +5711,11 @@ AI: Basic Trainer
 
 Plusle @ Oran Berry
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Minun @ Oran Berry
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ISABEL_2 ===
 Name: ISABEL
@@ -5987,11 +5979,11 @@ AI: Basic Trainer
 
 Wurmple
 Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Caterpie
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 /*Route 2*/
 
@@ -6006,11 +5998,11 @@ AI: Basic Trainer
 
 Spearow
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Seedot
 Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 /*Route 2*/
 
@@ -6056,7 +6048,7 @@ AI: Basic Trainer
 
 Machop
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BEN ===
 Name: BEN
@@ -6146,7 +6138,7 @@ AI: Basic Trainer
 
 Trapinch
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DILLON ===
 Name: DILLON
@@ -6159,7 +6151,7 @@ AI: Basic Trainer
 
 Aron
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CALVIN_2 ===
 Name: CALVIN
@@ -6244,11 +6236,11 @@ AI: Basic Trainer
 
 Zigzagoon
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zigzagoon
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALLEN ===
 Name: ALLEN
@@ -6261,11 +6253,11 @@ AI: Basic Trainer
 
 Zigzagoon
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Taillow
 Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TIMMY ===
 Name: TIMMY
@@ -6278,11 +6270,11 @@ AI: Basic Trainer
 
 Aron
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Electrike
 Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WALLACE ===
 Name: WALLACE
@@ -6352,17 +6344,21 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Magikarp
+Barboach
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Tentacool
+Barboach
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Magikarp
+Barboach
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
+
+Barboach
+Level: 20
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_IVAN ===
 Name: IVAN
@@ -6373,17 +6369,17 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Magikarp
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Poliwag
+Level: 14
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Magikarp
-Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Corphish
+Level: 15
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Magikarp
-Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Barboach
+Level: 16
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CLAUDE ===
 Name: CLAUDE
@@ -6396,15 +6392,15 @@ AI: Basic Trainer
 
 Magikarp
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Goldeen
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Barboach
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ELLIOT_1 ===
 Name: ELLIOT
@@ -6417,15 +6413,15 @@ AI: Basic Trainer
 
 Magikarp
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Magikarp
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NED ===
 Name: NED
@@ -6457,19 +6453,19 @@ AI: Basic Trainer
 
 Tentacool
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NOLAN ===
 Name: NOLAN
@@ -6482,7 +6478,7 @@ AI: Basic Trainer
 
 Barboach
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BARNY ===
 Name: BARNY
@@ -6495,11 +6491,11 @@ AI: Basic Trainer
 
 Tentacool
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WADE ===
 Name: WADE
@@ -6512,7 +6508,7 @@ AI: Basic Trainer
 
 Tentacool
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CARTER ===
 Name: CARTER
@@ -6638,27 +6634,27 @@ AI: Basic Trainer
 
 Magikarp
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gyarados
 Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gyarados
 Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gyarados
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gyarados
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gyarados
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JACOB ===
 Name: JACOB
@@ -6688,11 +6684,11 @@ AI: Basic Trainer
 
 Magnemite
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Magnemite
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BENJAMIN_1 ===
 Name: BENJAMIN
@@ -6705,7 +6701,7 @@ AI: Basic Trainer
 
 Magnemite
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BENJAMIN_2 ===
 Name: BENJAMIN
@@ -6768,9 +6764,13 @@ Music: Female
 Double Battle: No
 AI: Basic Trainer
 
-Magnemite
+Meditite
+Level: 14
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
+
+Meditite
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JASMINE ===
 Name: JASMINE
@@ -6791,7 +6791,7 @@ IVs: 9 HP / 9 Atk / 9 Def / 9 SpA / 9 SpD / 9 Spe
 
 Voltorb
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ABIGAIL_2 ===
 Name: ABIGAIL
@@ -6856,7 +6856,7 @@ AI: Basic Trainer
 
 Doduo
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DYLAN_2 ===
 Name: DYLAN
@@ -6921,7 +6921,7 @@ AI: Basic Trainer
 
 Doduo
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MARIA_2 ===
 Name: MARIA
@@ -6986,11 +6986,11 @@ AI: Basic Trainer
 
 Staryu
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Staryu
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DEMETRIUS ===
 Name: DEMETRIUS
@@ -7003,11 +7003,11 @@ AI: Basic Trainer
 
 Zigzagoon
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Electrike
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ISAIAH_1 ===
 Name: ISAIAH
@@ -7020,7 +7020,7 @@ AI: Basic Trainer
 
 Staryu
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_PABLO_1 ===
 Name: PABLO
@@ -7033,11 +7033,11 @@ AI: Basic Trainer
 
 Staryu
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Staryu
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CHASE ===
 Name: CHASE
@@ -7050,7 +7050,7 @@ AI: Basic Trainer
 
 Wingull
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Staryu
 Level: 34
@@ -7119,7 +7119,7 @@ AI: Basic Trainer
 
 Staryu
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DONNY ===
 Name: DONNY
@@ -7132,7 +7132,7 @@ AI: Basic Trainer
 
 Wingull
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Staryu
 Level: 34
@@ -7149,7 +7149,7 @@ AI: Basic Trainer
 
 Staryu
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KATELYN_1 ===
 Name: KATELYN
@@ -7162,7 +7162,7 @@ AI: Basic Trainer
 
 Staryu
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALLISON ===
 Name: ALLISON
@@ -7175,7 +7175,7 @@ AI: Basic Trainer
 
 Wingull
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Staryu
 Level: 33
@@ -7354,7 +7354,7 @@ AI: Basic Trainer
 
 Wingull
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HUGH ===
 Name: HUGH
@@ -7367,11 +7367,11 @@ AI: Basic Trainer
 
 Wingull
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tropius
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_PHIL ===
 Name: PHIL
@@ -7384,7 +7384,7 @@ AI: Basic Trainer
 
 Swellow
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JARED ===
 Name: JARED
@@ -7431,11 +7431,11 @@ AI: Basic Trainer
 
 Tropius
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Xatu
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_EDWARDO ===
 Name: EDWARDO
@@ -7465,11 +7465,11 @@ AI: Basic Trainer
 
 Wingull
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Natu
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ROBERT_1 ===
 Name: ROBERT
@@ -7482,7 +7482,7 @@ AI: Basic Trainer
 
 Swablu
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BENNY ===
 Name: BENNY
@@ -7495,15 +7495,15 @@ AI: Basic Trainer
 
 Swellow
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Pelipper
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Xatu
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CHESTER ===
 Name: CHESTER
@@ -7516,11 +7516,11 @@ AI: Basic Trainer
 
 Taillow
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Swellow
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ROBERT_2 ===
 Name: ROBERT
@@ -7618,7 +7618,7 @@ AI: Basic Trainer
 
 Tropius
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_YASU ===
 Name: YASU
@@ -7631,7 +7631,7 @@ AI: Basic Trainer / Try To Faint
 
 Ninjask
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TAKASHI ===
 Name: TAKASHI
@@ -7644,11 +7644,11 @@ AI: Basic Trainer / Try To Faint
 
 Ninjask
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Koffing
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DIANNE ===
 Name: DIANNE
@@ -7661,13 +7661,13 @@ Double Battle: No
 
 Claydol
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Skill Swap
 - Earthquake
 
 Lanturn
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Thunderbolt
 - Earthquake
 
@@ -7681,7 +7681,7 @@ Double Battle: No
 
 Marill
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LAO_1 ===
 Name: LAO
@@ -7693,7 +7693,7 @@ Double Battle: No
 
 Koffing
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Gas
 - Tackle
 - Smog
@@ -7701,7 +7701,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Koffing
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Gas
 - Tackle
 - Smog
@@ -7709,7 +7709,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Koffing
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Gas
 - Tackle
 - Sludge
@@ -7725,11 +7725,11 @@ Double Battle: No
 
 Koffing
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Ninjask
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LAO_2 ===
 Name: LAO
@@ -7741,7 +7741,7 @@ Double Battle: No
 
 Koffing
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Gas
 - Tackle
 - Sludge
@@ -7749,14 +7749,14 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Koffing
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Gas
 - Tackle
 - Sludge
 
 Koffing
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Gas
 - Tackle
 - Sludge
@@ -7764,7 +7764,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Koffing
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Tackle
 - Sludge
 
@@ -8025,7 +8025,7 @@ AI: Basic Trainer
 
 Numel
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Ember
 - Tackle
 - Magnitude
@@ -8042,11 +8042,11 @@ AI: Basic Trainer
 
 Roselia
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ANGELICA ===
 Name: ANGELICA
@@ -8160,11 +8160,11 @@ AI: Basic Trainer
 
 Wingull
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_IMANI ===
 Name: IMANI
@@ -8177,7 +8177,7 @@ AI: Basic Trainer
 
 Marill
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KYLA ===
 Name: KYLA
@@ -8190,7 +8190,7 @@ AI: Basic Trainer
 
 Wailmer
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DENISE ===
 Name: DENISE
@@ -8203,11 +8203,11 @@ AI: Basic Trainer
 
 Wingull
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Goldeen
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BETH ===
 Name: BETH
@@ -8220,7 +8220,7 @@ AI: Basic Trainer
 
 Goldeen
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TARA ===
 Name: TARA
@@ -8233,11 +8233,11 @@ AI: Basic Trainer
 
 Horsea
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Marill
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MISSY ===
 Name: MISSY
@@ -8250,7 +8250,7 @@ AI: Basic Trainer
 
 Goldeen
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALICE ===
 Name: ALICE
@@ -8263,15 +8263,15 @@ AI: Basic Trainer
 
 Goldeen
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wingull
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Goldeen
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JENNY_1 ===
 Name: JENNY
@@ -8284,7 +8284,7 @@ AI: Basic Trainer
 
 Wailmer
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRACE ===
 Name: GRACE
@@ -8297,7 +8297,7 @@ AI: Basic Trainer
 
 Marill
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TANYA ===
 Name: TANYA
@@ -8310,7 +8310,7 @@ AI: Basic Trainer
 
 Luvdisc
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHARON ===
 Name: SHARON
@@ -8323,7 +8323,7 @@ AI: Basic Trainer
 
 Seaking
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NIKKI ===
 Name: NIKKI
@@ -8336,11 +8336,11 @@ AI: Basic Trainer
 
 Marill
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Spheal
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRENDA ===
 Name: BRENDA
@@ -8353,7 +8353,7 @@ AI: Basic Trainer
 
 Goldeen
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KATIE ===
 Name: KATIE
@@ -8366,11 +8366,11 @@ AI: Basic Trainer
 
 Goldeen
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Spheal
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SUSIE ===
 Name: SUSIE
@@ -8383,7 +8383,7 @@ AI: Basic Trainer
 
 Luvdisc
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KARA ===
 Name: KARA
@@ -8396,7 +8396,7 @@ AI: Basic Trainer
 
 Seaking
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DANA ===
 Name: DANA
@@ -8409,7 +8409,7 @@ AI: Basic Trainer
 
 Azumarill
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SIENNA ===
 Name: SIENNA
@@ -8422,11 +8422,11 @@ AI: Basic Trainer
 
 Luvdisc
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Luvdisc
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DEBRA ===
 Name: DEBRA
@@ -8439,7 +8439,7 @@ AI: Basic Trainer
 
 Seaking
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LINDA ===
 Name: LINDA
@@ -8452,11 +8452,11 @@ AI: Basic Trainer
 
 Horsea
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Seadra
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KAYLEE ===
 Name: KAYLEE
@@ -8469,11 +8469,11 @@ AI: Basic Trainer
 
 Lanturn
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Pelipper
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LAUREL ===
 Name: LAUREL
@@ -8486,11 +8486,11 @@ AI: Basic Trainer
 
 Luvdisc
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Luvdisc
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CARLEE ===
 Name: CARLEE
@@ -8503,7 +8503,7 @@ AI: Basic Trainer
 
 Seaking
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JENNY_2 ===
 Name: JENNY
@@ -8516,7 +8516,7 @@ AI: Basic Trainer
 
 Wailmer
 Level: 38
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JENNY_3 ===
 Name: JENNY
@@ -8529,7 +8529,7 @@ AI: Basic Trainer
 
 Wailmer
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JENNY_4 ===
 Name: JENNY
@@ -8542,11 +8542,11 @@ AI: Basic Trainer
 
 Staryu
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JENNY_5 ===
 Name: JENNY
@@ -8559,15 +8559,15 @@ AI: Basic Trainer
 
 Luvdisc
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Starmie
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HEIDI ===
 Name: HEIDI
@@ -8578,21 +8578,13 @@ Music: Girl
 Double Battle: No
 AI: Basic Trainer
 
-Sandshrew
-Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Dig
-- Sand Attack
-- Poison Sting
-- Slash
+Electrike
+Level: 14
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Baltoy
-Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Rapid Spin
-- Mud Slap
-- Psybeam
-- Rock Tomb
+SPECIES_NIDORAN_F
+Level: 16
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BECKY ===
 Name: BECKY
@@ -8605,11 +8597,11 @@ AI: Basic Trainer
 
 Rookidee
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Caterpie
 Level: 7
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 /*Route 2*/
 
@@ -8624,11 +8616,11 @@ AI: Basic Trainer
 
 Taillow
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lombre
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NANCY ===
 Name: NANCY
@@ -8641,11 +8633,11 @@ AI: Basic Trainer
 
 Marill
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lombre
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MARTHA ===
 Name: MARTHA
@@ -8658,11 +8650,11 @@ AI: Basic Trainer
 
 Skitty
 Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Swablu
 Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DIANA_1 ===
 Name: DIANA
@@ -8675,15 +8667,15 @@ AI: Basic Trainer
 
 Shroomish
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Oddish
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Swablu
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CEDRIC ===
 Name: CEDRIC
@@ -8696,7 +8688,7 @@ AI: Basic Trainer
 
 Wobbuffet
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Destiny Bond
 - Safeguard
 - Counter
@@ -8713,11 +8705,11 @@ AI: Basic Trainer
 
 Shroomish
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Marill
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DIANA_2 ===
 Name: DIANA
@@ -8814,11 +8806,11 @@ AI: Basic Trainer
 
 Plusle
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Minun
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_AMY_AND_LIV_2 ===
 Name: AMY & LIV
@@ -8848,11 +8840,11 @@ AI: Basic Trainer
 
 Seedot
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lotad
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MIU_AND_YUKI ===
 Name: MIU & YUKI
@@ -8865,11 +8857,11 @@ AI: Basic Trainer
 
 Beautifly
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Dustox
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_AMY_AND_LIV_3 ===
 Name: AMY & LIV
@@ -8882,11 +8874,11 @@ AI: Basic Trainer
 
 Plusle
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Minun
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GINA_AND_MIA_2 ===
 Name: GINA & MIA
@@ -8899,13 +8891,13 @@ AI: Basic Trainer
 
 Duskull
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Night Shade
 - Disable
 
 Shroomish
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Absorb
 - Leech Seed
 
@@ -9004,7 +8996,7 @@ AI: Basic Trainer
 
 Wingull
 Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ERNEST_1 ===
 Name: ERNEST
@@ -9017,11 +9009,11 @@ AI: Basic Trainer
 
 Wingull
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machoke
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DWAYNE ===
 Name: DWAYNE
@@ -9034,15 +9026,15 @@ AI: Basic Trainer
 
 Wingull
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machop
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_PHILLIP ===
 Name: PHILLIP
@@ -9055,11 +9047,11 @@ AI: Basic Trainer
 
 Tentacruel
 Level: 44
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machoke
 Level: 44
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LEONARD ===
 Name: LEONARD
@@ -9072,15 +9064,15 @@ AI: Basic Trainer
 
 Machop
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Pelipper
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machoke
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DUNCAN ===
 Name: DUNCAN
@@ -9093,11 +9085,11 @@ AI: Basic Trainer
 
 Spheal
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machoke
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ERNEST_2 ===
 Name: ERNEST
@@ -9192,8 +9184,12 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Numel
-Level: 23
+Aron
+Level: 14
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+
+SPECIES_GEODUDE_ALOLA
+Level: 16
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_ANNIKA ===
@@ -9233,7 +9229,7 @@ AI: Smart Trainer
 
 Absol
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JONAS ===
 Name: JONAS
@@ -9246,7 +9242,7 @@ AI: Smart Trainer
 
 Koffing
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Toxic
 - Thunder
 - Self Destruct
@@ -9263,7 +9259,7 @@ AI: Basic Trainer
 
 Castform
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Sunny Day
 - Weather Ball
 - Flamethrower
@@ -9351,7 +9347,7 @@ AI: Basic Trainer
 
 Wailmer
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CONOR ===
 Name: CONOR
@@ -9364,7 +9360,7 @@ AI: Basic Trainer
 
 Chinchou
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Hariyama
 Level: 33
@@ -9381,11 +9377,11 @@ AI: Basic Trainer
 
 Lombre
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nuzleaf
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HECTOR ===
 Name: HECTOR
@@ -9398,11 +9394,11 @@ AI: Basic Trainer
 
 Zangoose
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Seviper
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TABITHA_MOSSDEEP ===
 Name: TABITHA
@@ -9436,11 +9432,11 @@ AI: Basic Trainer
 
 Lombre
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nuzleaf
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_EDWIN_3 ===
 Name: EDWIN
@@ -9453,11 +9449,11 @@ AI: Basic Trainer
 
 Lombre
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nuzleaf
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_EDWIN_4 ===
 Name: EDWIN
@@ -9470,11 +9466,11 @@ AI: Basic Trainer
 
 Lombre
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nuzleaf
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_EDWIN_5 ===
 Name: EDWIN
@@ -9487,11 +9483,11 @@ AI: Basic Trainer
 
 Ludicolo
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shiftry
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WALLY_VR_1 ===
 Name: WALLY
@@ -9554,7 +9550,7 @@ AI: Smart Trainer
 
 Treecko
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_MUDKIP ===
 Name: BRENDAN
@@ -9609,7 +9605,7 @@ AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
 Torchic
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TREECKO ===
 Name: BRENDAN
@@ -9664,7 +9660,7 @@ AI: Smart Trainer
 
 Mudkip
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRENDAN_ROUTE_110_TORCHIC ===
 Name: BRENDAN
@@ -9719,7 +9715,7 @@ AI: Smart Trainer
 
 Treecko
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MAY_ROUTE_110_MUDKIP ===
 Name: MAY
@@ -9774,7 +9770,7 @@ AI: Smart Trainer
 
 Torchic
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MAY_ROUTE_110_TREECKO ===
 Name: MAY
@@ -9829,7 +9825,7 @@ AI: Smart Trainer
 
 Mudkip
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MAY_ROUTE_110_TORCHIC ===
 Name: MAY
@@ -9884,27 +9880,27 @@ AI: Basic Trainer
 
 Whismur
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zigzagoon
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Aron
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Poochyena
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Taillow
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Makuhita
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DAVIS ===
 Name: DAVIS
@@ -9934,7 +9930,7 @@ AI: Smart Trainer
 
 Lunatone
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Explosion
 - Reflect
 - Light Screen
@@ -9942,7 +9938,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Solrock
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Explosion
 - Reflect
 - Light Screen
@@ -10091,27 +10087,27 @@ AI: Basic Trainer
 
 Wingull
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shroomish
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Marill
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Roselia
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Skitty
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Goldeen
 Level: 11
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HALLE ===
 Name: HALLE
@@ -10125,11 +10121,11 @@ AI: Smart Trainer
 
 Sableye
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Absol
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GARRISON ===
 Name: GARRISON
@@ -10142,7 +10138,7 @@ AI: Basic Trainer
 
 Sandslash
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LYDIA_2 ===
 Name: LYDIA
@@ -10527,7 +10523,7 @@ AI: Basic Trainer
 
 Magnemite
 Level: 21
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SEAFLOOR_CAVERN_5 ===
 Name: GRUNT
@@ -10557,11 +10553,11 @@ AI: Basic Trainer
 
 Wailmer
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zubat
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MT_PYRE_4 ===
 Name: GRUNT
@@ -10574,11 +10570,11 @@ AI: Basic Trainer
 
 Wailmer
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zubat
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_JAGGED_PASS ===
 Name: GRUNT
@@ -10677,7 +10673,7 @@ AI: Basic Trainer
 
 Carvanha
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ATHENA ===
 Name: ATHENA
@@ -10713,7 +10709,7 @@ AI: Basic Trainer
 
 Tentacruel
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MT_CHIMNEY_2 ===
 Name: GRUNT
@@ -10726,7 +10722,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CLARENCE ===
 Name: CLARENCE
@@ -10739,7 +10735,7 @@ AI: Basic Trainer
 
 Sharpedo
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TERRY ===
 Name: TERRY
@@ -10752,7 +10748,7 @@ AI: Basic Trainer
 
 Girafarig
 Level: 37
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NATE ===
 Name: NATE
@@ -10791,7 +10787,7 @@ AI: Basic Trainer
 
 Girafarig
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NICHOLAS ===
 Name: NICHOLAS
@@ -10804,7 +10800,7 @@ AI: Basic Trainer
 
 Wobbuffet
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_3 ===
 Name: GRUNT
@@ -10817,11 +10813,11 @@ AI: Basic Trainer
 
 Zubat
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Poochyena
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_4 ===
 Name: GRUNT
@@ -10834,7 +10830,7 @@ AI: Basic Trainer
 
 Baltoy
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_5 ===
 Name: GRUNT
@@ -10847,7 +10843,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_6 ===
 Name: GRUNT
@@ -10860,7 +10856,7 @@ AI: Basic Trainer
 
 Mightyena
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_SPACE_CENTER_7 ===
 Name: GRUNT
@@ -10873,7 +10869,7 @@ AI: Basic Trainer
 
 Baltoy
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MACEY ===
 Name: MACEY
@@ -10886,7 +10882,7 @@ AI: Basic Trainer
 
 Natu
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TREECKO ===
 Name: BRENDAN
@@ -10933,11 +10929,11 @@ AI: Smart Trainer
 
 Swellow
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Breloom
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ISABELLA ===
 Name: ISABELLA
@@ -10950,7 +10946,7 @@ AI: Basic Trainer
 
 Staryu
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_WEATHER_INST_5 ===
 Name: GRUNT
@@ -10963,11 +10959,11 @@ AI: Basic Trainer
 
 Zubat
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Poochyena
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TABITHA_MT_CHIMNEY ===
 Name: TABITHA
@@ -11006,11 +11002,11 @@ AI: Basic Trainer / Try To Faint / Force Setup First Turn
 
 Kecleon
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Loudred
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRENDAN_RUSTBORO_TORCHIC ===
 Name: BRENDAN
@@ -11101,11 +11097,11 @@ AI: Basic Trainer
 
 Zigzagoon
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shroomish
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HALEY_1 ===
 Name: HALEY
@@ -11118,11 +11114,11 @@ AI: Basic Trainer
 
 Lotad
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shroomish
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JANICE ===
 Name: JANICE
@@ -11135,7 +11131,7 @@ AI: Basic Trainer
 
 Marill
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_VIVI ===
 Name: VIVI
@@ -11241,7 +11237,7 @@ AI: Basic Trainer
 
 Oddish
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ROBIN ===
 Name: ROBIN
@@ -11254,15 +11250,15 @@ AI: Basic Trainer
 
 Skitty
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Shroomish
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Marill
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ANDREA ===
 Name: ANDREA
@@ -11305,11 +11301,11 @@ AI: Basic Trainer
 
 Wurmple
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wurmple
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LYLE ===
 Name: LYLE
@@ -11322,19 +11318,19 @@ AI: Basic Trainer
 
 Wurmple
 Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wurmple
 Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wurmple
 Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wurmple
 Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JOSE ===
 Name: JOSE
@@ -11364,11 +11360,11 @@ AI: Basic Trainer
 
 Nincada
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Ninjask
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GREG ===
 Name: GREG
@@ -11381,11 +11377,11 @@ AI: Basic Trainer
 
 Volbeat
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Illumise
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KENT ===
 Name: KENT
@@ -11398,7 +11394,7 @@ AI: Basic Trainer
 
 Ninjask
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JAMES_1 ===
 Name: JAMES
@@ -11411,11 +11407,11 @@ AI: Basic Trainer
 
 Nincada
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nincada
 Level: 6
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JAMES_2 ===
 Name: JAMES
@@ -11504,11 +11500,11 @@ AI: Basic Trainer
 
 Numel
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machop
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TRENT_1 ===
 Name: TRENT
@@ -11521,15 +11517,15 @@ AI: Basic Trainer
 
 Geodude
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Geodude
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Geodude
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LENNY ===
 Name: LENNY
@@ -11542,11 +11538,11 @@ AI: Basic Trainer
 
 Geodude
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machop
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LUCAS_1 ===
 Name: LUCAS
@@ -11559,11 +11555,11 @@ AI: Basic Trainer
 
 Geodude
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Numel
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALAN ===
 Name: ALAN
@@ -11576,15 +11572,15 @@ AI: Basic Trainer
 
 Geodude
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nosepass
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Graveler
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CLARK ===
 Name: CLARK
@@ -11597,7 +11593,7 @@ AI: Basic Trainer
 
 Geodude
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ERIC ===
 Name: ERIC
@@ -11610,11 +11606,11 @@ AI: Basic Trainer
 
 Geodude
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Baltoy
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LUCAS_2 ===
 Name: LUCAS
@@ -11627,7 +11623,7 @@ AI: Basic Trainer
 
 Wailmer
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Splash
 - Water Gun
 
@@ -11642,13 +11638,13 @@ AI: Basic Trainer
 
 Pelipper
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Gust
 - Growl
 
 Poochyena
 Level: 10
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Bite
 - Scary Face
 
@@ -11663,15 +11659,15 @@ AI: Basic Trainer
 
 Geodude
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Geodude
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machop
 Level: 16
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TRENT_2 ===
 Name: TRENT
@@ -11784,11 +11780,11 @@ AI: Basic Trainer
 
 Delcatty
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Manectric
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LEA_AND_JED ===
 Name: LEA & JED
@@ -11801,11 +11797,11 @@ AI: Basic Trainer
 
 Luvdisc
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Luvdisc
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KIRA_AND_DAN_1 ===
 Name: KIRA & DAN
@@ -11818,11 +11814,11 @@ AI: Basic Trainer
 
 Volbeat
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Illumise
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KIRA_AND_DAN_2 ===
 Name: KIRA & DAN
@@ -11903,7 +11899,7 @@ AI: Basic Trainer
 
 Goldeen
 Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GERALD ===
 Name: GERALD
@@ -11976,7 +11972,7 @@ AI: Basic Trainer / Try To Faint
 
 Koffing
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Tackle
 - Self Destruct
 - Sludge
@@ -11984,7 +11980,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Koffing
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Tackle
 - Poison Gas
 - Sludge
@@ -12001,7 +11997,7 @@ AI: Basic Trainer / Try To Faint
 
 Koffing
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Poison Gas
 - Self Destruct
 - Sludge
@@ -12009,7 +12005,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Ninjask
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Sand Attack
 - Double Team
 - Fury Cutter
@@ -12026,7 +12022,7 @@ AI: Basic Trainer / Try To Faint
 
 Nincada
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Leech Life
 - Fury Swipes
 - Mind Reader
@@ -12034,7 +12030,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Koffing
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Tackle
 - Self Destruct
 - Sludge
@@ -12452,15 +12448,15 @@ AI: Basic Trainer
 
 Wailmer
 Level: 30
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Sharpedo
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HENRY ===
 Name: HENRY
@@ -12473,11 +12469,11 @@ AI: Basic Trainer
 
 Carvanha
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacruel
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ROGER ===
 Name: ROGER
@@ -12490,15 +12486,15 @@ AI: Basic Trainer
 
 Magikarp
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Magikarp
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gyarados
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALEXA ===
 Name: ALEXA
@@ -12547,7 +12543,7 @@ AI: Basic Trainer
 
 Machoke
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WAYNE ===
 Name: WAYNE
@@ -12560,15 +12556,15 @@ AI: Basic Trainer
 
 Tentacool
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 31
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wailmer
 Level: 36
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_AIDAN ===
 Name: AIDAN
@@ -12581,11 +12577,11 @@ AI: Basic Trainer
 
 Swellow
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Skarmory
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_REED ===
 Name: REED
@@ -12598,11 +12594,11 @@ AI: Basic Trainer
 
 Spheal
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Sharpedo
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TISHA ===
 Name: TISHA
@@ -12615,7 +12611,7 @@ AI: Basic Trainer
 
 Chinchou
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TORI_AND_TIA ===
 Name: TORI & TIA
@@ -12628,11 +12624,11 @@ AI: Basic Trainer
 
 Spinda
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Spinda
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KIM_AND_IRIS ===
 Name: KIM & IRIS
@@ -12645,7 +12641,7 @@ AI: Basic Trainer
 
 Swablu
 Level: 32
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Sing
 - Fury Attack
 - Safeguard
@@ -12653,7 +12649,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Numel
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Flamethrower
 - Take Down
 - Rest
@@ -12670,7 +12666,7 @@ AI: Basic Trainer
 
 Roselia
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Growth
 - Stun Spore
 - Mega Drain
@@ -12678,7 +12674,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Graveler
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Defense Curl
 - Rollout
 - Mud Sport
@@ -12695,7 +12691,7 @@ AI: Basic Trainer
 
 Dustox
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Gust
 - Psybeam
 - Toxic
@@ -12703,7 +12699,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 Beautifly
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 - Gust
 - Mega Drain
 - Attract
@@ -12845,11 +12841,11 @@ AI: Basic Trainer
 
 Azumarill
 Level: 35
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Wingull
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LILA_AND_ROY_1 ===
 Name: LILA & ROY
@@ -12862,11 +12858,11 @@ AI: Basic Trainer
 
 Chinchou
 Level: 34
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LILA_AND_ROY_2 ===
 Name: LILA & ROY
@@ -12879,11 +12875,11 @@ AI: Basic Trainer
 
 Chinchou
 Level: 42
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 40
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LILA_AND_ROY_3 ===
 Name: LILA & ROY
@@ -12896,11 +12892,11 @@ AI: Basic Trainer
 
 Lanturn
 Level: 45
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 43
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LILA_AND_ROY_4 ===
 Name: LILA & ROY
@@ -12913,11 +12909,11 @@ AI: Basic Trainer
 
 Lanturn
 Level: 48
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Sharpedo
 Level: 46
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LILA_AND_ROY_5 ===
 Name: LILA & ROY
@@ -12930,11 +12926,11 @@ AI: Basic Trainer
 
 Lanturn
 Level: 51
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Sharpedo
 Level: 49
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LISA_AND_RAY ===
 Name: LISA & RAY
@@ -12947,11 +12943,11 @@ AI: Basic Trainer
 
 Goldeen
 Level: 27
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CHRIS ===
 Name: CHRIS
@@ -12964,19 +12960,19 @@ AI: Basic Trainer
 
 Magikarp
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 20
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Feebas
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Carvanha
 Level: 23
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DAWSON ===
 Name: DAWSON
@@ -12987,13 +12983,13 @@ Music: Rich
 Double Battle: No
 AI: Basic Trainer
 
-Zigzagoon @ Nugget
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Swablu
+Level: 15
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
-Poochyena
-Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Nidorino
+Level: 16
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SARAH ===
 Name: SARAH
@@ -13007,11 +13003,11 @@ AI: Basic Trainer
 
 Lotad
 Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 SPECIES_ZIGZAGOON_GALAR
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 /*Route 2*/
 
@@ -13026,7 +13022,7 @@ AI: Basic Trainer
 
 Magikarp
 Level: 9
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HAILEY ===
 Name: HAILEY
@@ -13039,7 +13035,7 @@ AI: Basic Trainer
 
 Marill
 Level: 13
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CHANDLER ===
 Name: CHANDLER
@@ -13052,11 +13048,11 @@ AI: Basic Trainer
 
 Tentacool
 Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 12
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KALEB ===
 Name: KALEB
@@ -13069,11 +13065,11 @@ AI: Basic Trainer
 
 Minun @ Oran Berry
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Plusle @ Oran Berry
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JOSEPH ===
 Name: JOSEPH
@@ -13086,11 +13082,11 @@ AI: Basic Trainer
 
 Electrike
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Voltorb
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALYSSA ===
 Name: ALYSSA
@@ -13103,7 +13099,7 @@ AI: Basic Trainer
 
 Magnemite
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MARCOS ===
 Name: MARCOS
@@ -13142,7 +13138,7 @@ AI: Basic Trainer
 
 Sandshrew
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CELINA ===
 Name: CELINA
@@ -13155,7 +13151,7 @@ AI: Basic Trainer
 
 Roselia
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BIANCA ===
 Name: BIANCA
@@ -13168,7 +13164,7 @@ AI: Basic Trainer
 
 Shroomish
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HAYDEN ===
 Name: HAYDEN
@@ -13181,7 +13177,7 @@ AI: Basic Trainer
 
 Numel
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SOPHIE ===
 Name: SOPHIE
@@ -13194,11 +13190,11 @@ AI: Basic Trainer
 
 Marill
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lombre
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_COBY ===
 Name: COBY
@@ -13211,11 +13207,11 @@ AI: Basic Trainer
 
 Skarmory
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Swellow
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LAWRENCE ===
 Name: LAWRENCE
@@ -13228,11 +13224,11 @@ AI: Basic Trainer
 
 Baltoy
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Sandshrew
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_WYATT ===
 Name: WYATT
@@ -13245,11 +13241,11 @@ AI: Basic Trainer
 
 Aron
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Aron
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ANGELINA ===
 Name: ANGELINA
@@ -13262,11 +13258,11 @@ AI: Basic Trainer
 
 Lombre
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Marill
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KAI ===
 Name: KAI
@@ -13279,7 +13275,7 @@ AI: Basic Trainer
 
 Barboach
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CHARLOTTE ===
 Name: CHARLOTTE
@@ -13292,7 +13288,7 @@ AI: Basic Trainer
 
 Nuzleaf
 Level: 19
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DEANDRE ===
 Name: DEANDRE
@@ -13305,15 +13301,15 @@ AI: Basic Trainer
 
 Zigzagoon
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Aron
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Electrike
 Level: 14
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_1 ===
 Name: GRUNT
@@ -13326,7 +13322,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_2 ===
 Name: GRUNT
@@ -13339,7 +13335,7 @@ AI: Basic Trainer
 
 Poochyena
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_3 ===
 Name: GRUNT
@@ -13352,7 +13348,7 @@ AI: Basic Trainer
 
 Numel
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_4 ===
 Name: GRUNT
@@ -13365,11 +13361,11 @@ AI: Basic Trainer
 
 Baltoy
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Zubat
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_5 ===
 Name: GRUNT
@@ -13382,11 +13378,11 @@ AI: Basic Trainer
 
 Baltoy
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Numel
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_6 ===
 Name: GRUNT
@@ -13399,7 +13395,7 @@ AI: Basic Trainer
 
 Mightyena
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_7 ===
 Name: GRUNT
@@ -13412,7 +13408,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_8 ===
 Name: GRUNT
@@ -13425,7 +13421,7 @@ AI: Basic Trainer
 
 Poochyena
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_9 ===
 Name: GRUNT
@@ -13438,7 +13434,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_10 ===
 Name: GRUNT
@@ -13451,7 +13447,7 @@ AI: Basic Trainer
 
 Mightyena
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_11 ===
 Name: GRUNT
@@ -13464,7 +13460,7 @@ AI: Basic Trainer
 
 Baltoy
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_12 ===
 Name: GRUNT
@@ -13477,7 +13473,7 @@ AI: Basic Trainer
 
 Numel
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_13 ===
 Name: GRUNT
@@ -13490,7 +13486,7 @@ AI: Basic Trainer
 
 Zubat
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_14 ===
 Name: GRUNT
@@ -13503,7 +13499,7 @@ AI: Basic Trainer
 
 Mightyena
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_15 ===
 Name: GRUNT
@@ -13516,7 +13512,7 @@ AI: Basic Trainer
 
 Numel
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRUNT_MAGMA_HIDEOUT_16 ===
 Name: GRUNT
@@ -13529,7 +13525,7 @@ AI: Basic Trainer
 
 Baltoy
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TABITHA_MAGMA_HIDEOUT ===
 Name: TABITHA
@@ -13568,11 +13564,11 @@ AI: Smart Trainer
 
 Pelipper
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Camerupt
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MAXIE_MOSSDEEP ===
 Name: MAXIE
@@ -13606,7 +13602,7 @@ AI: Basic Trainer
 
 Tentacool
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ISABELLE ===
 Name: ISABELLE
@@ -13619,7 +13615,7 @@ AI: Basic Trainer
 
 Marill
 Level: 15
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ANDRES_1 ===
 Name: ANDRES
@@ -13666,7 +13662,7 @@ AI: Basic Trainer
 
 Staryu
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CORY_1 ===
 Name: CORY
@@ -13679,15 +13675,15 @@ AI: Basic Trainer
 
 Wingull
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Machop
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Tentacool
 Level: 24
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CAROLINA ===
 Name: CAROLINA
@@ -13722,11 +13718,11 @@ AI: Basic Trainer
 
 Skarmory
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Skarmory
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CELIA ===
 Name: CELIA
@@ -13739,11 +13735,11 @@ AI: Basic Trainer
 
 Marill
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lombre
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRYAN ===
 Name: BRYAN
@@ -13756,11 +13752,11 @@ AI: Basic Trainer
 
 Sandshrew
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Sandslash
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRANDEN ===
 Name: BRANDEN
@@ -13773,11 +13769,11 @@ AI: Basic Trainer
 
 Taillow
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Nuzleaf
 Level: 22
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRYANT ===
 Name: BRYANT
@@ -13790,11 +13786,11 @@ AI: Basic Trainer
 
 Numel
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Slugma
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHAYLA ===
 Name: SHAYLA
@@ -13807,11 +13803,11 @@ AI: Basic Trainer
 
 Shroomish
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Roselia
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_KYRA ===
 Name: KYRA
@@ -13824,11 +13820,11 @@ AI: Basic Trainer
 
 Doduo
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Dodrio
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JAIDEN ===
 Name: JAIDEN
@@ -13841,11 +13837,11 @@ AI: Basic Trainer
 
 Ninjask
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Gulpin
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALIX ===
 Name: ALIX
@@ -13858,11 +13854,11 @@ AI: Basic Trainer
 
 Kadabra
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Kirlia
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_HELENE ===
 Name: HELENE
@@ -13875,11 +13871,11 @@ AI: Basic Trainer
 
 Meditite
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Makuhita
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MARLENE ===
 Name: MARLENE
@@ -13892,11 +13888,11 @@ AI: Basic Trainer
 
 Meditite
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Spoink
 Level: 18
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DEVAN ===
 Name: DEVAN
@@ -13909,11 +13905,11 @@ AI: Basic Trainer
 
 Geodude
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Geodude
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_JOHNSON ===
 Name: JOHNSON
@@ -13926,11 +13922,11 @@ AI: Basic Trainer
 
 Shroomish
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Lotad
 Level: 8
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MELINA ===
 Name: MELINA
@@ -13943,7 +13939,7 @@ AI: Basic Trainer
 
 Doduo
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRANDI ===
 Name: BRANDI
@@ -13956,7 +13952,7 @@ AI: Basic Trainer
 
 Ralts
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_AISHA ===
 Name: AISHA
@@ -13969,7 +13965,7 @@ AI: Basic Trainer
 
 Meditite
 Level: 17
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MAKAYLA ===
 Name: MAKAYLA
@@ -13983,11 +13979,11 @@ AI: Smart Trainer
 
 Roselia
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Medicham
 Level: 33
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_FABIAN ===
 Name: FABIAN
@@ -14000,7 +13996,7 @@ AI: Basic Trainer
 
 Manectric
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_DAYTON ===
 Name: DAYTON
@@ -14013,11 +14009,11 @@ AI: Basic Trainer
 
 Slugma
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Numel
 Level: 25
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_RACHEL ===
 Name: RACHEL
@@ -14030,7 +14026,7 @@ AI: Basic Trainer
 
 Goldeen
 Level: 26
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LEONEL ===
 Name: LEONEL
@@ -14060,11 +14056,11 @@ AI: Basic Trainer
 
 Meditite
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Makuhita
 Level: 28
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_CALE ===
 Name: CALE
@@ -14077,11 +14073,11 @@ AI: Basic Trainer
 
 Dustox
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Beautifly
 Level: 29
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MYLES ===
 Name: MYLES
@@ -15970,7 +15966,7 @@ AI: Smart Trainer
 
 Beldum
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_TUCKER ===
 Name: TUCKER
@@ -15983,7 +15979,7 @@ AI: Smart Trainer
 
 Beldum
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SPENSER ===
 Name: SPENSER
@@ -15996,7 +15992,7 @@ AI: Smart Trainer
 
 Beldum
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_GRETA ===
 Name: GRETA
@@ -16009,7 +16005,7 @@ AI: Smart Trainer
 
 Beldum
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_NOLAND ===
 Name: NOLAND
@@ -16022,12 +16018,12 @@ AI: Smart Trainer
 
 Beldum
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LUCY ===
 Name: SELENE
 Class: Leader
-Pic: Pike Queen Lucy
+Pic: Selene
 Gender: Female
 Music: Elite Four
 Items: Potion / Potion
@@ -16069,7 +16065,7 @@ AI: Smart Trainer
 
 Beldum
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ANDRES_2 ===
 Name: ANDRES
@@ -16865,7 +16861,7 @@ Double Battle: No
 
 Chimecho
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_ALVARO ===
 Name: ALVARO
@@ -16877,11 +16873,11 @@ Double Battle: No
 
 Banette
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 Kadabra
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_EVERETT ===
 Name: EVERETT
@@ -16893,7 +16889,7 @@ Double Battle: No
 
 Wobbuffet
 Level: 41
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_RED ===
 Name: RED
@@ -16905,7 +16901,7 @@ Double Battle: No
 
 Charmander
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_LEAF ===
 Name: LEAF
@@ -16917,7 +16913,7 @@ Double Battle: No
 
 Bulbasaur
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_BRENDAN_PLACEHOLDER ===
 Name: BRENDAN
@@ -16929,7 +16925,7 @@ Double Battle: No
 
 Groudon
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_MAY_PLACEHOLDER ===
 Name: MAY
@@ -16941,4 +16937,4 @@ Double Battle: No
 
 Kyogre
 Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
