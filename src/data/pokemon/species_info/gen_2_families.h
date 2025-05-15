@@ -292,7 +292,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .levelUpLearnset = sCyndaquilLevelUpLearnset,
         .teachableLearnset = sCyndaquilTeachableLearnset,
         .eggMoveLearnset = sCyndaquilEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_LEVEL, 16, SPECIES_QUILAVA}),
+        .evolutions = EVOLUTION({EVO_LEVEL, 18, SPECIES_QUILAVA}),
     },
 
     [SPECIES_QUILAVA] =
