@@ -51,9 +51,9 @@ Shivervale_Gym_EventScript_BillDefeated::
 # 43 "data/maps/ShivervaleGym/scripts.pory"
 	fadescreen FADE_TO_BLACK
 # 44 "data/maps/ShivervaleGym/scripts.pory"
-	setmetatile 7, 3, 0x232, FALSE
+	setmetatile 7, 3, 0x832, FALSE
 # 45 "data/maps/ShivervaleGym/scripts.pory"
-	setmetatile 7, 2, 0x237, FALSE
+	setmetatile 7, 2, 0x837, FALSE
 # 46 "data/maps/ShivervaleGym/scripts.pory"
 	playse SE_DOOR
 # 47 "data/maps/ShivervaleGym/scripts.pory"

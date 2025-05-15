@@ -41,8 +41,8 @@ script Shivervale_Gym_EventScript_BillDefeated {
     setvar(VAR_SHIVERVALE_TOWN_STATE, 2)
     closemessage
     fadescreen(FADE_TO_BLACK)
-    setmetatile(7, 3, 0x232, FALSE)
-    setmetatile(7, 2, 0x237, FALSE)
+    setmetatile(7, 3, 0x832, FALSE)
+    setmetatile(7, 2, 0x837, FALSE)
     playse(SE_DOOR)
     special(DrawWholeMapView)
     fadescreen(FADE_FROM_BLACK)

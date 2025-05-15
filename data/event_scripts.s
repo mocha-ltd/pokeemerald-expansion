@@ -1204,3 +1204,21 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/Route3/scripts.inc"
 
 	.include "data/maps/EvergreenForest/scripts.inc"
+
+	.include "data/maps/EvergreenForest_House/scripts.inc"
+
+	.include "data/maps/Route4/scripts.inc"
+
+	.include "data/maps/Route4_RestHouse/scripts.inc"
+
+	.include "data/maps/Route4_FishingHut/scripts.inc"
+
+	.include "data/maps/RoyalspurCity/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_House1/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_House2/scripts.inc"
+
+	.include "data/maps/RoyalspurGym/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_House3/scripts.inc"

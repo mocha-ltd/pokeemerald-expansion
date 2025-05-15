@@ -4660,6 +4660,96 @@
       "secondary_tileset": "gTileset_ShadyForest",
       "border_filepath": "data/layouts/EvergreenForest/border.bin",
       "blockdata_filepath": "data/layouts/EvergreenForest/map.bin"
+    },
+    {
+      "id": "LAYOUT_EVERGREEN_FOREST_HOUSE",
+      "name": "EvergreenForest_House_Layout",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/EvergreenForest_House/border.bin",
+      "blockdata_filepath": "data/layouts/EvergreenForest_House/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE4",
+      "name": "Route4_Layout",
+      "width": 40,
+      "height": 80,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Route4/border.bin",
+      "blockdata_filepath": "data/layouts/Route4/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE4_REST_HOUSE",
+      "name": "Route4_RestHouse_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route4_RestHouse/border.bin",
+      "blockdata_filepath": "data/layouts/Route4_RestHouse/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE4_FISHING_HUT",
+      "name": "Route4_FishingHut_Layout",
+      "width": 14,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/Route4_FishingHut/border.bin",
+      "blockdata_filepath": "data/layouts/Route4_FishingHut/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY",
+      "name": "RoyalspurCity_Layout",
+      "width": 45,
+      "height": 50,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/RoyalspurCity/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_HOUSE1",
+      "name": "RoyalspurCity_House1_Layout",
+      "width": 12,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/RoyalspurCity_House1/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_House1/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_HOUSE2",
+      "name": "RoyalspurCity_House2_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/RoyalspurCity_House2/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_House2/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_GYM",
+      "name": "RoyalspurGym_Layout",
+      "width": 19,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_dojoexterior",
+      "border_filepath": "data/layouts/RoyalspurGym/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurGym/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_HOUSE3",
+      "name": "RoyalspurCity_House3_Layout",
+      "width": 8,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/RoyalspurCity_House3/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_House3/map.bin"
     }
   ]
 }

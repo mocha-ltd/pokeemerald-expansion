@@ -83,23 +83,23 @@ EvergreenForest_EventScript_Grunt1Defeated::
 # 58 "data/maps/EvergreenForest/scripts.pory"
 	lock
 # 59 "data/maps/EvergreenForest/scripts.pory"
-	applymovement 8, EvergreenForest_EventScript_Grunt1Defeated_Movement_0
+	applymovement 7, EvergreenForest_EventScript_Grunt1Defeated_Movement_0
 # 60 "data/maps/EvergreenForest/scripts.pory"
-	waitmovement 8
+	waitmovement 7
 # 61 "data/maps/EvergreenForest/scripts.pory"
 	msgbox EvergreenForest_EventScript_Grunt1Defeated_Text_0
 # 62 "data/maps/EvergreenForest/scripts.pory"
 	closemessage
 # 63 "data/maps/EvergreenForest/scripts.pory"
-	applymovement 7, EvergreenForest_EventScript_Grunt1Defeated_Movement_1
+	applymovement 8, EvergreenForest_EventScript_Grunt1Defeated_Movement_1
 # 64 "data/maps/EvergreenForest/scripts.pory"
-	waitmovement 7
+	waitmovement 8
 # 65 "data/maps/EvergreenForest/scripts.pory"
 	msgbox EvergreenForest_EventScript_Grunt1Defeated_Text_1
 # 66 "data/maps/EvergreenForest/scripts.pory"
-	applymovement 7, EvergreenForest_EventScript_Grunt1Defeated_Movement_2
+	applymovement 8, EvergreenForest_EventScript_Grunt1Defeated_Movement_2
 # 67 "data/maps/EvergreenForest/scripts.pory"
-	waitmovement 7
+	waitmovement 8
 # 68 "data/maps/EvergreenForest/scripts.pory"
 	applymovement OBJ_EVENT_ID_PLAYER, EvergreenForest_EventScript_Grunt1Defeated_Movement_0
 # 69 "data/maps/EvergreenForest/scripts.pory"
@@ -129,11 +129,11 @@ EvergreenForest_EventScript_Grunt2Defeated::
 # 88 "data/maps/EvergreenForest/scripts.pory"
 	lock
 # 89 "data/maps/EvergreenForest/scripts.pory"
-	applymovement 7, EvergreenForest_EventScript_Grunt1Defeated_Movement_1
+	applymovement 7, EvergreenForest_EventScript_Grunt1Defeated_Movement_0
 # 90 "data/maps/EvergreenForest/scripts.pory"
 	waitmovement 7
 # 91 "data/maps/EvergreenForest/scripts.pory"
-	applymovement 8, EvergreenForest_EventScript_Grunt1Defeated_Movement_0
+	applymovement 8, EvergreenForest_EventScript_Grunt1Defeated_Movement_1
 # 92 "data/maps/EvergreenForest/scripts.pory"
 	waitmovement 8
 # 93 "data/maps/EvergreenForest/scripts.pory"
@@ -484,15 +484,17 @@ EvergreenForest_EventScript_Grunt2Defeated_Movement_0:
 # 100 "data/maps/EvergreenForest/scripts.pory"
 	walk_left
 # 100 "data/maps/EvergreenForest/scripts.pory"
-	walk_up
+	walk_left
+# 100 "data/maps/EvergreenForest/scripts.pory"
+	walk_left
+# 100 "data/maps/EvergreenForest/scripts.pory"
+	walk_down
 # 100 "data/maps/EvergreenForest/scripts.pory"
 	face_player
 	step_end
 
 # 131 "data/maps/EvergreenForest/scripts.pory"
 EvergreenForest_EventScript_Shrine1_Movement_0:
-# 131 "data/maps/EvergreenForest/scripts.pory"
-	walk_fast_down
 # 131 "data/maps/EvergreenForest/scripts.pory"
 	walk_fast_down
 # 131 "data/maps/EvergreenForest/scripts.pory"
@@ -656,7 +658,7 @@ EvergreenForest_EventScript_Shrine1_Text_0:
 
 EvergreenForest_EventScript_Shrine1_Text_1:
 # 135 "data/maps/EvergreenForest/scripts.pory"
-	.string "Help! Those strange men came into the\n"
+	.string "Help! Those strangers came into the\n"
 	.string "forest and are defacing the forest\l"
 	.string "shrine. You have to do something!$"
 

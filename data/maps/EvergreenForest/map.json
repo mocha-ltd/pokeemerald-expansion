@@ -117,15 +117,210 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "EvergreenForest_EventScript_UmbraPreBattle",
       "flag": "FLAG_EVERGREEN_GRUNTBATTLE"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_CAMPER",
+      "x": 12,
+      "y": 26,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_FACE_DOWN_LEFT_AND_RIGHT",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NORMAL",
+      "trainer_sight_or_berry_tree_id": "4",
+      "script": "EvergreenForest_EventScript_Drew",
+      "flag": "0"
     }
   ],
   "warp_events": [
-
+    {
+      "x": 17,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE3",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 16,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE3",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 29,
+      "y": 39,
+      "elevation": 0,
+      "dest_map": "MAP_EVERGREEN_FOREST_HOUSE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 17,
+      "y": 51,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE4",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 16,
+      "y": 51,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE4",
+      "dest_warp_id": "1"
+    }
   ],
   "coord_events": [
-
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 13,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "0",
+      "script": "EvergreenForest_EventScript_Shrine1"
+    },
+    {
+      "type": "trigger",
+      "x": 9,
+      "y": 13,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "0",
+      "script": "EvergreenForest_EventScript_Shrine1"
+    },
+    {
+      "type": "trigger",
+      "x": 20,
+      "y": 14,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "0",
+      "script": "EvergreenForest_EventScript_Shrine2"
+    },
+    {
+      "type": "trigger",
+      "x": 20,
+      "y": 15,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "0",
+      "script": "EvergreenForest_EventScript_Shrine3"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 24,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "1",
+      "script": "EvergreenForest_EventScript_DontLeave2"
+    },
+    {
+      "type": "trigger",
+      "x": 7,
+      "y": 24,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "1",
+      "script": "EvergreenForest_EventScript_DontLeave2"
+    },
+    {
+      "type": "trigger",
+      "x": 6,
+      "y": 24,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "1",
+      "script": "EvergreenForest_EventScript_DontLeave2"
+    },
+    {
+      "type": "trigger",
+      "x": 5,
+      "y": 24,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "1",
+      "script": "EvergreenForest_EventScript_DontLeave2"
+    },
+    {
+      "type": "trigger",
+      "x": 4,
+      "y": 24,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "1",
+      "script": "EvergreenForest_EventScript_DontLeave2"
+    },
+    {
+      "type": "trigger",
+      "x": 8,
+      "y": 25,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "2",
+      "script": "EvergreenForest_EventScript_CantLeaveYet"
+    },
+    {
+      "type": "trigger",
+      "x": 7,
+      "y": 25,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "2",
+      "script": "EvergreenForest_EventScript_CantLeaveYet"
+    },
+    {
+      "type": "trigger",
+      "x": 6,
+      "y": 25,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "2",
+      "script": "EvergreenForest_EventScript_CantLeaveYet"
+    },
+    {
+      "type": "trigger",
+      "x": 5,
+      "y": 25,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "2",
+      "script": "EvergreenForest_EventScript_CantLeaveYet"
+    },
+    {
+      "type": "trigger",
+      "x": 4,
+      "y": 25,
+      "elevation": 0,
+      "var": "VAR_EVERGREEN_FOREST_STATE",
+      "var_value": "2",
+      "script": "EvergreenForest_EventScript_CantLeaveYet"
+    }
   ],
   "bg_events": [
-
+    {
+      "type": "hidden_item",
+      "x": 35,
+      "y": 23,
+      "elevation": 0,
+      "item": "ITEM_LEAF_STONE",
+      "flag": "FLAG_ITEM_ROUTE_119_LEAF_STONE"
+    },
+    {
+      "type": "sign",
+      "x": 15,
+      "y": 4,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "EvergreenForest_EventScript_Sign1"
+    },
+    {
+      "type": "sign",
+      "x": 19,
+      "y": 46,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_NORTH",
+      "script": "EvergreenForest_EventScript_Sign2"
+    }
   ]
 }

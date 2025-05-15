@@ -56,15 +56,15 @@ text EvergreenForest_Text_Grunt1Outro {
 
 script EvergreenForest_EventScript_Grunt1Defeated {
     lock
-    applymovement(8, moves(face_left))
-    waitmovement(8)
+    applymovement(7, moves(face_left))
+    waitmovement(7)
     msgbox(format("How did I lose to this kid?"))
     closemessage
-    applymovement(7, moves(face_right))
-    waitmovement(7)
+    applymovement(8, moves(face_right))
+    waitmovement(8)
     msgbox(format("Get outta the way, I'll show you how it's done."))
-    applymovement(7, moves(walk_down, face_player))
-    waitmovement(7)
+    applymovement(8, moves(walk_down, face_player))
+    waitmovement(8)
     applymovement(OBJ_EVENT_ID_PLAYER, moves(face_left))
     waitmovement(OBJ_EVENT_ID_PLAYER)
     msgbox(format("You'll be sorry that you messed with us!"))
@@ -86,9 +86,9 @@ text EvergreenForest_Text_Grunt2Outro {
 
 script EvergreenForest_EventScript_Grunt2Defeated {
     lock
-    applymovement(7, moves(face_right))
+    applymovement(7, moves(face_left))
     waitmovement(7)
-    applymovement(8, moves(face_left))
+    applymovement(8, moves(face_right))
     waitmovement(8)
     msgbox(format("Come on, let's get out of here. This shrine didn't have anything helpful and this kid is the real deal!"))
     closemessage
@@ -97,7 +97,7 @@ script EvergreenForest_EventScript_Grunt2Defeated {
     removeobject(7)
     removeobject(8)
     fadescreen(FADE_FROM_BLACK)
-    applymovement(2, moves(walk_left * 5, walk_up, face_player))
+    applymovement(2, moves(walk_left * 7, walk_down, face_player))
     waitmovement(2)
     applymovement(OBJ_EVENT_ID_PLAYER, moves(face_right))
     msgbox(format("Thank you, trainer, those guys were scaring me.\p
@@ -128,11 +128,11 @@ script EvergreenForest_EventScript_Shrine1 {
     lock
     msgbox(format("Someone please help!"))
     closemessage
-    applymovement(OBJ_EVENT_ID_PLAYER, moves(walk_fast_down * 7))
+    applymovement(OBJ_EVENT_ID_PLAYER, moves(walk_fast_down * 6))
     waitmovement(OBJ_EVENT_ID_PLAYER)
     applymovement(2, moves(face_up))
     waitmovement(2)
-    msgbox(format("Help! Those strange men came into the forest and are defacing the forest shrine. You have to do something!"))
+    msgbox(format("Help! Those strangers came into the forest and are defacing the forest shrine. You have to do something!"))
     closemessage
     setvar(VAR_EVERGREEN_FOREST_STATE, 1)
     release
@@ -146,7 +146,7 @@ script EvergreenForest_EventScript_Shrine2 {
     waitmovement(OBJ_EVENT_ID_PLAYER)
     applymovement(2, moves(face_up))
     waitmovement(2)
-    msgbox(format("Help! Those strange men came into the forest and are defacing the forest shrine. You have to do something!"))
+    msgbox(format("Help! Those strangers came into the forest and are defacing the forest shrine. You have to do something!"))
     closemessage
     setvar(VAR_EVERGREEN_FOREST_STATE, 1)
     release
@@ -160,7 +160,7 @@ script EvergreenForest_EventScript_Shrine3 {
     waitmovement(OBJ_EVENT_ID_PLAYER)
     applymovement(2, moves(face_up))
     waitmovement(2)
-    msgbox(format("Help! Those strange men came into the forest and are defacing the forest shrine. You have to do something!"))
+    msgbox(format("Help! Those strangers came into the forest and are defacing the forest shrine. You have to do something!"))
     closemessage
     setvar(VAR_EVERGREEN_FOREST_STATE, 1)
     release
