@@ -434,6 +434,27 @@ const struct SpriteFrameImage gObjectEventPicTable_UmbraGruntF[] = {
     overworld_frame(gObjectEventPic_UmbraGruntF, 4, 4, 8),
 };
 
+const struct SpriteFrameImage gObjectEventPicTable_Selene[] = {
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 0),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 1),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 2),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 3),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 4),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 5),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 6),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 7),
+    overworld_frame(gObjectEventPic_Selene, 4, 4, 8),
+};
+
+//static const struct SpriteFrameImage gObjectEventPicTable_Phantump[] = {
+    //overworld_frame(gObjectEventPic_Phantump, 4, 4, 0),
+    //overworld_frame(gObjectEventPic_Phantump, 4, 4, 1),
+    //overworld_frame(gObjectEventPic_Phantump, 4, 4, 2),
+    //overworld_frame(gObjectEventPic_Phantump, 4, 4, 3),
+    //overworld_frame(gObjectEventPic_Phantump, 4, 4, 4),
+    //overworld_frame(gObjectEventPic_Phantump, 4, 4, 5),
+//};
+
 static const struct SpriteFrameImage sPicTable_BirchsBag[] = {
     obj_frame_tiles(gObjectEventPic_BirchsBag),
 };
