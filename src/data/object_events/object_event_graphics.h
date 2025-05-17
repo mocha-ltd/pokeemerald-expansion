@@ -43,6 +43,7 @@ const u16 gObjectEventPalette_Silver[] = INCBIN_U16("graphics/object_events/pale
 const u32 gObjectEventPic_UmbraGruntM[] = INCBIN_U32("graphics/object_events/pics/people/male_umbra_grunt.4bpp");
 const u32 gObjectEventPic_UmbraGruntF[] = INCBIN_U32("graphics/object_events/pics/people/female_umbra_grunt.4bpp");
 const u32 gObjectEventPic_Selene[] = INCBIN_U32("graphics/object_events/pics/people/selene.4bpp");
+const u32 gObjectEventPic_Raikov[] = INCBIN_U32("graphics/object_events/pics/people/raikov.4bpp");
 //const u32 gObjectEventPic_Phantump[] = INCBIN_U32("graphics/object_events/pics/people/phantump.4bpp");
 //const u16 gObjectEventPalette_Phantump[] = INCBIN_U16("graphics/object_events/palettes/phantump.gbapal");
 const u16 gObjectEventPal_Null16[16] = {};

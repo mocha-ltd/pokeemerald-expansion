@@ -133,6 +133,9 @@ $(OBJEVENTGFXDIR)/people/female_umbra_grunt.4bpp: %.4bpp: %.png
 $(OBJEVENTGFXDIR)/people/selene.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -mwidth 4 -mheight 4
 
+$(OBJEVENTGFXDIR)/people/raikov.4bpp: %.4bpp: %.png
+	$(GFX) $< $@ -mwidth 4 -mheight 4
+
 $(OBJEVENTGFXDIR)/people/phantump.4bpp: %.4bpp: %.png
 	$(GFX) $< $@ -mwidth 4 -mheight 4
 

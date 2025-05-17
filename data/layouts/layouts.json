@@ -4704,7 +4704,7 @@
     {
       "id": "LAYOUT_ROYALSPUR_CITY",
       "name": "RoyalspurCity_Layout",
-      "width": 45,
+      "width": 46,
       "height": 50,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Rustboro",
@@ -4750,6 +4750,106 @@
       "secondary_tileset": "gTileset_GenericBuilding",
       "border_filepath": "data/layouts/RoyalspurCity_House3/border.bin",
       "blockdata_filepath": "data/layouts/RoyalspurCity_House3/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_HOUSE4",
+      "name": "RoyalspurCity_House4_Layout",
+      "width": 10,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_GenericBuilding",
+      "border_filepath": "data/layouts/RoyalspurCity_House4/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_House4/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_BIKE_SHOP",
+      "name": "RoyalspurCity_BikeShop_Layout",
+      "width": 12,
+      "height": 9,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_BikeShop",
+      "border_filepath": "data/layouts/RoyalspurCity_BikeShop/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_BikeShop/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_POKEMON_CENTER_1F",
+      "name": "RoyalspurCity_PokemonCenter_1F_Layout",
+      "width": 14,
+      "height": 10,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_pokecenter",
+      "border_filepath": "data/layouts/RoyalspurCity_PokemonCenter_1F/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_PokemonCenter_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_MART",
+      "name": "RoyalspurCity_Mart_Layout",
+      "width": 11,
+      "height": 8,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Shop",
+      "border_filepath": "data/layouts/RoyalspurCity_Mart/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_Mart/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_MAYOR_HOUSE_1F",
+      "name": "RoyalspurCity_MayorHouse_1F_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Facility",
+      "border_filepath": "data/layouts/RoyalspurCity_MayorHouse_1F/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_MayorHouse_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_CITY_MAYOR_HOUSE_2F",
+      "name": "RoyalspurCity_MayorHouse_2F_Layout",
+      "width": 14,
+      "height": 9,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Facility",
+      "border_filepath": "data/layouts/RoyalspurCity_MayorHouse_2F/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurCity_MayorHouse_2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_GYM_INTERIOR_1F",
+      "name": "RoyalspurGym_Interior_1F_Layout",
+      "width": 15,
+      "height": 18,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_dojointerior",
+      "border_filepath": "data/layouts/RoyalspurGym_Interior_1F/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurGym_Interior_1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_GYM_INTERIOR_1F_POST_BATTLE",
+      "name": "RoyalspurGym_Interior_1F_PostBattle_Layout",
+      "width": 15,
+      "height": 18,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_dojointerior",
+      "border_filepath": "data/layouts/RoyalspurGym_Interior_1F_PostBattle/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurGym_Interior_1F_PostBattle/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_GYM_INTERIOR_BASEMENT",
+      "name": "RoyalspurGym_Interior_Basement_Layout",
+      "width": 15,
+      "height": 18,
+      "primary_tileset": "gTileset_PyramidInterior",
+      "secondary_tileset": "gTileset_PyramidInteriorSecondary",
+      "border_filepath": "data/layouts/RoyalspurGym_Interior_Basement/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurGym_Interior_Basement/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE5",
+      "name": "Route5_Layout",
+      "width": 120,
+      "height": 42,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Rustboro",
+      "border_filepath": "data/layouts/Route5/border.bin",
+      "blockdata_filepath": "data/layouts/Route5/map.bin"
     }
   ]
 }

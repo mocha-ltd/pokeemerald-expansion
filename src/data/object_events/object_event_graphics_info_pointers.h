@@ -240,6 +240,7 @@ extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_HoOh;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_UmbraGruntM;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_UmbraGruntF;
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Selene;
+extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Raikov;
 //extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Phantump;
 // Begin pokemon event objects
 extern const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_PokeBall;
@@ -498,6 +499,7 @@ const struct ObjectEventGraphicsInfo *const gObjectEventGraphicsInfoPointers[NUM
     [OBJ_EVENT_GFX_UMBRA_GRUNT_M] =            &gObjectEventGraphicsInfo_UmbraGruntM,
     [OBJ_EVENT_GFX_UMBRA_GRUNT_F] =            &gObjectEventGraphicsInfo_UmbraGruntF,
     [OBJ_EVENT_GFX_SELENE] =                   &gObjectEventGraphicsInfo_Selene,
+    [OBJ_EVENT_GFX_RAIKOV] =                   &gObjectEventGraphicsInfo_Raikov,
     //[OBJ_EVENT_GFX_PHANTUMP] =                 &gObjectEventGraphicsInfo_Phantump,
 };
 

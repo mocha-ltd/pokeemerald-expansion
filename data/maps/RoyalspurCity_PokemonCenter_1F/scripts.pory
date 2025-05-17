@@ -1,0 +1,56 @@
+mapscripts RoyalspurCity_PokemonCenter_1F_MapScripts {
+    MAP_SCRIPT_ON_TRANSITION: RoyalspurCity_PokemonCenter_1F_OnTransition
+    MAP_SCRIPT_ON_RESUME: CableClub_OnResume
+}
+
+script RoyalspurCity_PokemonCenter_1F_OnTransition {
+    setrespawn(HEAL_LOCATION_ROYALSPUR_CITY)
+    end
+}
+
+script RoyalspurCity_PokemonCenter_1F_EventScript_Nurse {
+    lock
+    msgbox(format("Hello, and welcome to the POKéMON CENTER.\p
+    We restore your tired POKéMON to full health.\p
+    Would you like to rest your POKéMON?"), MSGBOX_YESNO)
+    if(var(VAR_RESULT) == YES) {
+    incrementgamestat(GAME_STAT_USED_POKECENTER)
+    msgbox(format("Perfect, I'll just need your POKéMON for a few moments."), MSGBOX_AUTOCLOSE)
+    applymovement(1, moves(face_left))
+    waitmovement(1)
+    call(Common_EventScript_OutOfCenterPartyHeal)
+    applymovement(1, moves(face_player, walk_in_place_down))
+    waitmovement(1)
+    }
+    elif(var(VAR_RESULT) == NO) {
+        return
+    }
+    msgbox(format("Thank you for using the POKéMON CENTER.\p
+    Best of luck on your journey!"))
+    closemessage
+    release
+}
+
+script RoyalspurCity_PokemonCenter_1F_EventScript_TrainersCanUsePC {
+    lock
+    applymovement(3, moves(face_player))
+    waitmovement(3)
+    msgbox(format("That PC in the corner there is for any Pokémon Trainer to use.\p
+	Naturally, that means you're welcome to use it, too."))
+    closemessage
+    applymovement(3, moves(face_original_direction))
+    waitmovement(3)
+    release
+}
+
+script RoyalspurCity_PokemonCenter_1F_EventScript_PokeCentersAreGreat {
+    lock
+    applymovement(4, moves(face_player))
+    waitmovement(4)
+    msgbox(format("Pokémon Centers are great! You can use their services as much as you like, and it's all for free.\p
+	You never have to worry!"))
+    closemessage
+    applymovement(4, moves(face_original_direction))
+    waitmovement(4)
+    release
+}

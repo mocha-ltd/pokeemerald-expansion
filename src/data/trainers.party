@@ -2568,15 +2568,23 @@ Pic: Expert F
 Gender: Female
 Music: Intense
 Double Battle: No
-AI: Basic Trainer
+AI: Smart Trainer
 
-Whiscash
-Level: 33
-IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
+Luxio
+Level: 20
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Bite
+- Charge
+- Spark
+- Sand Attack
 
-Meditite
-Level: 33
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+Jolteon
+Level: 22
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Thunder Shock
+- Quick Attack
+- Tail Whip
+- Sand Attack
 
 === TRAINER_GARRET ===
 Name: GARRET
@@ -3201,9 +3209,13 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Machop
-Level: 13
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+Toxel
+Level: 18
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+
+Electrike
+Level: 18
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_HITOSHI ===
 Name: HITOSHI
@@ -7886,9 +7898,13 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Meditite
-Level: 13
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+SPECIES_GEODUDE_ALOLA
+Level: 18
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
+
+Jolteon
+Level: 20
+IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 
 === TRAINER_LAURA ===
 Name: LAURA
@@ -15982,17 +15998,38 @@ Level: 5
 IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SPENSER ===
-Name: SPENSER
-Class: Palace Maven
-Pic: Palace Maven Spenser
+Name: RAIKOV
+Class: Leader
+Pic: Raikov
 Gender: Male
-Music: Male
+Music: Elite Four
+Items: Super Potion
 Double Battle: No
 AI: Smart Trainer
 
-Beldum
-Level: 5
-IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
+SPECIES_VOLTORB_HISUI
+Level: 21
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+- Thunder Wave
+- Spark
+- Tackle
+- Razor Leaf
+
+Lanturn
+Level: 22
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+- Shock Wave
+- Supersonic
+- Flail
+- Water Gun
+
+Manectric @ Sitrus Berry
+Level: 23
+IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+- Shock Wave
+- Thunder Wave
+- Quick Attack
+- Roar
 
 === TRAINER_GRETA ===
 Name: GRETA
@@ -16003,9 +16040,10 @@ Music: Male
 Double Battle: No
 AI: Smart Trainer
 
-Beldum
-Level: 5
-IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
+SPECIES_VOLTORB_HISUI
+Level: 21
+IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+
 
 === TRAINER_NOLAND ===
 Name: NOLAND

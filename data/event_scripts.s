@@ -1222,3 +1222,23 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/RoyalspurGym/scripts.inc"
 
 	.include "data/maps/RoyalspurCity_House3/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_House4/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_BikeShop/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_PokemonCenter_1F/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_Mart/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_MayorHouse_1F/scripts.inc"
+
+	.include "data/maps/RoyalspurCity_MayorHouse_2F/scripts.inc"
+
+	.include "data/maps/RoyalspurGym_Interior_1F/scripts.inc"
+
+	.include "data/maps/RoyalspurGym_Interior_1F_PostBattle/scripts.inc"
+
+	.include "data/maps/RoyalspurGym_Interior_Basement/scripts.inc"
+
+	.include "data/maps/Route5/scripts.inc"

@@ -2,7 +2,7 @@
   "id": "MAP_ROYALSPUR_CITY_HOUSE3",
   "name": "RoyalspurCity_House3",
   "layout": "LAYOUT_ROYALSPUR_CITY_HOUSE3",
-  "music": "MUS_DUMMY",
+  "music": "MUS_RG_VERMILLION",
   "region_map_section": "MAPSEC_ROYALSPUR_CITY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",

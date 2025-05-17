@@ -662,6 +662,16 @@
     "RoyalspurCity_House1",
     "RoyalspurCity_House2",
     "RoyalspurGym",
-    "RoyalspurCity_House3"
+    "RoyalspurCity_House3",
+    "RoyalspurCity_House4",
+    "RoyalspurCity_BikeShop",
+    "RoyalspurCity_PokemonCenter_1F",
+    "RoyalspurCity_Mart",
+    "RoyalspurCity_MayorHouse_1F",
+    "RoyalspurCity_MayorHouse_2F",
+    "RoyalspurGym_Interior_1F",
+    "RoyalspurGym_Interior_1F_PostBattle",
+    "RoyalspurGym_Interior_Basement",
+    "Route5"
   ]
 }

@@ -31,6 +31,9 @@ const u32 gTrainerPalette_UmbraGruntM[] = INCBIN_U32("graphics/trainers/front_pi
 const u32 gTrainerFrontPic_Selene[] = INCBIN_U32("graphics/trainers/front_pics/selene.4bpp.lz");
 const u32 gTrainerPalette_Selene[] = INCBIN_U32("graphics/trainers/front_pics/selene.gbapal.lz");
 
+const u32 gTrainerFrontPic_Raikov[] = INCBIN_U32("graphics/trainers/front_pics/raikov.4bpp.lz");
+const u32 gTrainerPalette_Raikov[] = INCBIN_U32("graphics/trainers/front_pics/raikov.gbapal.lz");
+
 const u32 gTrainerFrontPic_SwimmerM[] = INCBIN_U32("graphics/trainers/front_pics/swimmer_m.4bpp.lz");
 const u32 gTrainerPalette_SwimmerM[] = INCBIN_U32("graphics/trainers/front_pics/swimmer_m.gbapal.lz");
 
@@ -417,6 +420,7 @@ const struct TrainerSprite gTrainerSprites[] =
     TRAINER_SPRITE(TRAINER_PIC_UMBRA_GRUNT_F, gTrainerFrontPic_UmbraGruntF, gTrainerPalette_UmbraGruntF),
     TRAINER_SPRITE(TRAINER_PIC_UMBRA_GRUNT_M, gTrainerFrontPic_UmbraGruntM, gTrainerPalette_UmbraGruntM),
     TRAINER_SPRITE(TRAINER_PIC_SELENE, gTrainerFrontPic_Selene, gTrainerPalette_Selene),
+    TRAINER_SPRITE(TRAINER_PIC_RAIKOV, gTrainerFrontPic_Raikov, gTrainerPalette_Raikov),
 };
 
 static const union AnimCmd sAnimCmd_Hoenn[] =

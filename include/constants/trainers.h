@@ -112,7 +112,8 @@
 #define TRAINER_PIC_UMBRA_GRUNT_F         94
 #define TRAINER_PIC_UMBRA_GRUNT_M         95
 #define TRAINER_PIC_SELENE                96
-#define TRAINER_PIC_COUNT                 97
+#define TRAINER_PIC_RAIKOV                97
+#define TRAINER_PIC_COUNT                 98
 
 // The player back pics are assumed to alternate according to the gender values (MALE/FEMALE)
 #define TRAINER_BACK_PIC_BRENDAN                0

@@ -1841,6 +1841,25 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Selene = {
     .affineAnims = gDummySpriteAffineAnimTable,
 };
 
+const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Raikov = { 
+    .tileTag = 0xFFFF,
+    .paletteTag = OBJ_EVENT_PAL_TAG_NPC_4,
+    .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
+    .size = 512,
+    .width = 32,
+    .height = 32,
+    .paletteSlot = PALSLOT_NPC_4,
+    .shadowSize = SHADOW_SIZE_M,
+    .inanimate = FALSE,
+    .compressed = FALSE,
+    .tracks = TRACKS_FOOT,
+    .oam = &gObjectEventBaseOam_32x32,
+    .subspriteTables = sOamTables_32x32,
+    .anims = sAnimTable_Standard,
+    .images = gObjectEventPicTable_Raikov,
+    .affineAnims = gDummySpriteAffineAnimTable,
+};
+
 //const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Phantump = { 
     //.tileTag = 0xFFFF,
     //.paletteTag = OBJ_EVENT_PAL_PHANTUMP,
