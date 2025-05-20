@@ -19,7 +19,7 @@ script EvergreenForest_House_EventScript_OldWoman {
     You helped my granddaughter protect the shrine? You must be a very capable Pokémon trainer.\p
     You know, my PHANTUMP here has been a loyal friend for many years helping me make medicine here in my home, but lately I can sense it's getting more of an adventurous spirit.\p
     And I can sense that it trusts you after telling me you helped save my granddaughter."))
-    msgbox("Would you be willing to take PHANTUMP\n
+    msgbox("Would you be willing to take PHANTUMP\l
     with you on your journey?", MSGBOX_YESNO)
     if(var(VAR_RESULT) == YES)
         {

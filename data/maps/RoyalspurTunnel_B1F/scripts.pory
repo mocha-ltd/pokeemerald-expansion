@@ -1,0 +1,58 @@
+mapscripts RoyalspurTunnel_B1F_MapScripts {
+    
+}
+
+script RoyalspurTunnel_B1F_EventScript_Ball1 {
+    lock
+    removeobject(1)
+    giveitem(ITEM_PARALYZE_HEAL)
+    release
+}
+
+script RoyalspurTunnel_B1F_EventScript_Ball2 {
+    lock
+    removeobject(2)
+    giveitem(ITEM_ESCAPE_ROPE)
+    release
+}
+
+script RoyalspurTunnel_B1F_EventScript_Ball3 {
+    lock
+    removeobject(3)
+    giveitem(ITEM_ZAP_PLATE)
+    release
+}
+
+script RoyalspurTunnel_B1F_EventScript_Ball4 {
+    lock
+    removeobject(4)
+    giveitem(ITEM_CELL_BATTERY)
+    release
+}
+
+script RoyalspurTunnel_B1F_EventScript_Scientist1 {
+    lock
+    applymovement(5, moves(face_player))
+    waitmovement(5)
+    msgbox(format("Wait, what are you doing down here?\p
+    ...\p
+    Oh, we thought the darkness would deter people from coming down here.\p
+    Just try not to break anything, we have a lot of valuable equipment down here."))
+    closemessage
+    applymovement(5, moves(face_original_direction))
+    waitmovement(5)
+    release
+}
+
+script RoyalspurTunnel_B1F_EventScript_Scientist2 {
+    lock
+    applymovement(6, moves(face_player))
+    waitmovement(6)
+    msgbox(format("Ah, a young scientist coming here to learn more about our machines, how exciting!\p
+    These generators down here help harness the natural flowing electrical energy from the mountain and power Royalspur City, and it doesn't harm the natural environment!.\p
+    We are currently experimenting to find a way to send this energy to other cities and towns throughout Shizen."))
+    closemessage
+    applymovement(6, moves(face_original_direction))
+    waitmovement(6)
+    release
+}

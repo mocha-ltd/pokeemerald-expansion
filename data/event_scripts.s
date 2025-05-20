@@ -1242,3 +1242,7 @@ EventScript_VsSeekerChargingDone::
 	.include "data/maps/RoyalspurGym_Interior_Basement/scripts.inc"
 
 	.include "data/maps/Route5/scripts.inc"
+
+	.include "data/maps/RoyalspurTunnel/scripts.inc"
+
+	.include "data/maps/RoyalspurTunnel_B1F/scripts.inc"

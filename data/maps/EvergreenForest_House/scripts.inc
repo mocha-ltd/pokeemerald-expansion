@@ -202,7 +202,7 @@ EvergreenForest_House_EventScript_OldWoman_Text_0:
 
 EvergreenForest_House_EventScript_OldWoman_Text_1:
 # 22 "data/maps/EvergreenForest_House/scripts.pory"
-	.string "Would you be willing to take PHANTUMP\n with you on your journey?$"
+	.string "Would you be willing to take PHANTUMP\l with you on your journey?$"
 
 EvergreenForest_House_EventScript_OldWoman_Text_2:
 # 26 "data/maps/EvergreenForest_House/scripts.pory"

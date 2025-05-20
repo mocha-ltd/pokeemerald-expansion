@@ -1,0 +1,111 @@
+{
+  "id": "MAP_ROYALSPUR_TUNNEL_B1F",
+  "name": "RoyalspurTunnel_B1F",
+  "layout": "LAYOUT_ROYALSPUR_TUNNEL_B1F",
+  "music": "MUS_DUMMY",
+  "region_map_section": "MAPSEC_ROYALSPUR_TUNNEL",
+  "requires_flash": true,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_UNDERGROUND",
+  "allow_cycling": true,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": 0,
+  "object_events": [
+    {
+      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "x": 7,
+      "y": 1,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "RoyalspurTunnel_B1F_EventScript_Ball1",
+      "flag": "FLAG_ITEM_ROYALSPUR_TUNNEL_B1F_PARALYZE_HEAL"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "x": 28,
+      "y": 25,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "RoyalspurTunnel_B1F_EventScript_Ball2",
+      "flag": "FLAG_ITEM_ROYALSPUR_TUNNEL_B1F_ESCAPE_ROPE"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "x": 1,
+      "y": 28,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "RoyalspurTunnel_B1F_EventScript_Ball3",
+      "flag": "FLAG_ITEM_ROYALSPUR_TUNNEL_B1F_ZAP_PLATE"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL",
+      "x": 23,
+      "y": 48,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "RoyalspurTunnel_B1F_EventScript_Ball4",
+      "flag": "FLAG_ITEM_ROYALSPUR_TUNNEL_B1F_CELL_BATTERY"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_SCIENTIST_1",
+      "x": 4,
+      "y": 27,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_FACE_UP",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "RoyalspurTunnel_B1F_EventScript_Scientist1",
+      "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_SCIENTIST_2",
+      "x": 20,
+      "y": 45,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_FACE_UP",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "RoyalspurTunnel_B1F_EventScript_Scientist2",
+      "flag": "0"
+    }
+  ],
+  "warp_events": [
+    {
+      "x": 3,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_ROYALSPUR_TUNNEL",
+      "dest_warp_id": "0"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}

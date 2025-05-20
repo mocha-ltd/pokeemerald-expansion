@@ -672,6 +672,8 @@
     "RoyalspurGym_Interior_1F",
     "RoyalspurGym_Interior_1F_PostBattle",
     "RoyalspurGym_Interior_Basement",
-    "Route5"
+    "Route5",
+    "RoyalspurTunnel",
+    "RoyalspurTunnel_B1F"
   ]
 }

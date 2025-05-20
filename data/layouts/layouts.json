@@ -4850,6 +4850,26 @@
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/Route5/border.bin",
       "blockdata_filepath": "data/layouts/Route5/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_TUNNEL",
+      "name": "RoyalspurTunnel_Layout",
+      "width": 42,
+      "height": 15,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/RoyalspurTunnel/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurTunnel/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROYALSPUR_TUNNEL_B1F",
+      "name": "RoyalspurTunnel_B1F_Layout",
+      "width": 35,
+      "height": 50,
+      "primary_tileset": "gTileset_CaveAlt",
+      "secondary_tileset": "gTileset_CaveAltSec",
+      "border_filepath": "data/layouts/RoyalspurTunnel_B1F/border.bin",
+      "blockdata_filepath": "data/layouts/RoyalspurTunnel_B1F/map.bin"
     }
   ]
 }
