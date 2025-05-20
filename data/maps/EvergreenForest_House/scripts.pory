@@ -96,8 +96,8 @@ script EvergreenForest_House_EventScript_PhantumpCry {
     lock
     applymovement(2, moves(face_player))
     waitmovement(2)
-    msgbox(format("Fwaaaaoooomph!"))
     playmoncry(SPECIES_PHANTUMP, CRY_MODE_NORMAL)
+    msgbox(format("Fwaaaaoooomph!"))
     waitmoncry
     closemessage
     release
