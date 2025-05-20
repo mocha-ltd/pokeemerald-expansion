@@ -913,3 +913,25 @@ const struct Tileset gTileset_ShadyForest =
     .metatileAttributes = gMetatileAttributes_ShadyForest,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_CaveAlt =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_CaveAlt,
+    .palettes = gTilesetPalettes_CaveAlt,
+    .metatiles = gMetatiles_CaveAlt,
+    .metatileAttributes = gMetatileAttributes_CaveAlt,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_CaveAltSec =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_CaveAltSec,
+    .palettes = gTilesetPalettes_CaveAltSec,
+    .metatiles = gMetatiles_CaveAltSec,
+    .metatileAttributes = gMetatileAttributes_CaveAltSec,
+    .callback = NULL,
+};

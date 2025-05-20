@@ -1786,3 +1786,41 @@ const u16 gTilesetPalettes_ShadyForest[][16] =
 };
 
 const u32 gTilesetTiles_ShadyForest[] = INCBIN_U32("data/tilesets/secondary/shady_forest/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_CaveAlt[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/cave_alt/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_CaveAlt[] = INCBIN_U32("data/tilesets/primary/cave_alt/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_CaveAltSec[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cave_alt_sec/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_CaveAltSec[] = INCBIN_U32("data/tilesets/secondary/cave_alt_sec/tiles.4bpp.lz");
