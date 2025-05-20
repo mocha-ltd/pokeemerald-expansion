@@ -93,11 +93,11 @@ AI: Smart Trainer
 
 Rockruff
 Level: 14
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 Abra
 Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
+IVs: 16 HP / 16 Atk / 16 Def / 16 SpA / 16 SpD / 16 Spe
 - Psybeam
 - Disable
 - Swift
@@ -576,8 +576,12 @@ Music: Intense
 Double Battle: No
 AI: Basic Trainer
 
-Hariyama
-Level: 31
+Makuhita
+Level: 22
+IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
+
+Drilbur
+Level: 22
 IVs: 5 HP / 5 Atk / 5 Def / 5 SpA / 5 SpD / 5 Spe
 
 === TRAINER_SHELLY_WEATHER_INSTITUTE ===
@@ -835,29 +839,17 @@ Music: Hiker
 Double Battle: No
 AI: Basic Trainer
 
-Baltoy
-Level: 27
+Sandile
+Level: 18
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Psybeam
-- Self Destruct
-- Sandstorm
-- Ancient Power
 
-Sandshrew
-Level: 27
+SPECIES_GEODUDE_ALOLA
+Level: 20
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
 
-Sandslash
-Level: 27
+Loudred
+Level: 20
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
-- Dig
-- Slash
-- Sand Attack
-- Poison Sting
 
 === TRAINER_FOSTER ===
 Name: FOSTER
@@ -6769,8 +6761,8 @@ IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_ABIGAIL_1 ===
 Name: ABIGAIL
-Class: Triathlete
-Pic: Cycling Triathlete F
+Class: Battle Girl
+Pic: Battle Girl
 Gender: Female
 Music: Female
 Double Battle: No
@@ -16009,7 +16001,7 @@ AI: Smart Trainer
 
 SPECIES_VOLTORB_HISUI
 Level: 21
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 - Thunder Wave
 - Spark
 - Tackle
@@ -16017,7 +16009,7 @@ IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
 
 Lanturn
 Level: 22
-IVs: 15 HP / 15 Atk / 15 Def / 15 SpA / 15 SpD / 15 Spe
+IVs: 20 HP / 20 Atk / 20 Def / 20 SpA / 20 SpD / 20 Spe
 - Shock Wave
 - Supersonic
 - Flail
@@ -16029,7 +16021,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Shock Wave
 - Thunder Wave
 - Quick Attack
-- Roar
+- Fire Fang
 
 === TRAINER_GRETA ===
 Name: GRETA
