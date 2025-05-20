@@ -5,10 +5,10 @@ enum
     PAGE_ART_DIRECTOR,
     PAGE_WORLD_DIRECTOR,
     PAGE_LEAD_PROGRAMMER,
-    PAGE_PROGRAMMERS_1,
-    PAGE_PROGRAMMERS_2,
-    PAGE_PROGRAMMERS_3,
-    PAGE_PROGRAMMERS_4,
+    //PAGE_PROGRAMMERS_1,
+    //PAGE_PROGRAMMERS_2,
+    //PAGE_PROGRAMMERS_3,
+    //PAGE_PROGRAMMERS_4,
     PAGE_GRAPHIC_DESIGNERS_1,
     PAGE_GRAPHIC_DESIGNERS_2,
     PAGE_GRAPHIC_DESIGNERS_3,
@@ -74,7 +74,7 @@ static const u8 sCreditsText_BattleSystemPgrms[]              = _("Battle System
 static const u8 sCreditsText_FieldSystemPgrms[]               = _("Field System Programmer");
 static const u8 sCreditsText_Programmers[]                    = _("Programmers");
 static const u8 sCreditsText_MainGraphicDesigner[]            = _("Main Graphic Designer");
-static const u8 sCreditsText_GraphicDesigners[]               = _("Graphic Designers");
+static const u8 sCreditsText_GraphicDesigners[]               = _("Tileset Artists");
 static const u8 sCreditsText_PkmnDesigners[]                  = _("POKéMON Designers");
 static const u8 sCreditsText_MusicComposition[]               = _("Music Composition");
 static const u8 sCreditsText_SoundEffectsAndPkmnVoices[]      = _("Sound Effects & POKéMON Voices");
@@ -103,11 +103,11 @@ static const u8 sCreditsText_LeadProgrammer[]                 = _("Lead Programm
 static const u8 sCreditsText_LeadGraphicArtist[]              = _("Lead Graphic Artist");
 static const u8 sCreditsText_SatoshiTajiri[]                  = _("Satoshi Tajiri");
 static const u8 sCreditsText_JunichiMasuda[]                  = _("Junichi Masuda");
-static const u8 sCreditsText_KenSugimori[]                    = _("Ken Sugimori");
-static const u8 sCreditsText_ShigekiMorimoto[]                = _("Shigeki Morimoto");
+static const u8 sCreditsText_KenSugimori[]                    = _("Ekat");
+static const u8 sCreditsText_ShigekiMorimoto[]                = _("mocha_ltd");
 static const u8 sCreditsText_TetsuyaWatanabe[]                = _("Tetsuya Watanabe");
 static const u8 sCreditsText_HisashiSogabe[]                  = _("Hisashi Sogabe");
-static const u8 sCreditsText_SosukeTamada[]                   = _("Sosuke Tamada");
+static const u8 sCreditsText_SosukeTamada[]                   = _("Pokémon Essentials");
 static const u8 sCreditsText_AkitoMori[]                      = _("Akito Mori");
 static const u8 sCreditsText_KeitaKagaya[]                    = _("Keita Kagaya");
 static const u8 sCreditsText_YoshinoriMatsuda[]               = _("Yoshinori Matsuda");
@@ -116,14 +116,14 @@ static const u8 sCreditsText_MasaoTaya[]                      = _("Masao Taya");
 static const u8 sCreditsText_SatoshiNohara[]                  = _("Satoshi Nohara");
 static const u8 sCreditsText_TomomichiOhta[]                  = _("Tomomichi Ohta");
 static const u8 sCreditsText_MiyukiIwasawa[]                  = _("Miyuki Iwasawa");
-static const u8 sCreditsText_TakenoriOhta[]                   = _("Takenori Ohta");
-static const u8 sCreditsText_HironobuYoshida[]                = _("Hironobu Yoshida");
-static const u8 sCreditsText_MotofumiFujiwara[]               = _("Motofumi Fujiwara");
-static const u8 sCreditsText_SatoshiOhta[]                    = _("Satoshi Ohta");
-static const u8 sCreditsText_AsukaIwashita[]                  = _("Asuka Iwashita");
-static const u8 sCreditsText_AimiTomita[]                     = _("Aimi Tomita");
-static const u8 sCreditsText_TakaoUnno[]                      = _("Takao Unno");
-static const u8 sCreditsText_KanakoEo[]                       = _("Kanako Eo");
+static const u8 sCreditsText_TakenoriOhta[]                   = _("Amethyst Crim Smeargletail");
+static const u8 sCreditsText_HironobuYoshida[]                = _("Vurtax (FRLG Rips)");
+static const u8 sCreditsText_MotofumiFujiwara[]               = _("leob0505");
+static const u8 sCreditsText_SatoshiOhta[]                    = _("Rahtak");
+static const u8 sCreditsText_AsukaIwashita[]                  = _("spaceemotion");
+static const u8 sCreditsText_AimiTomita[]                     = _("Heartlessdragoon (RSE Rips)");
+static const u8 sCreditsText_TakaoUnno[]                      = _("Princess-phoenix");
+static const u8 sCreditsText_KanakoEo[]                       = _("Pokemon Rejuvenation Team");
 static const u8 sCreditsText_JunOkutani[]                     = _("Jun Okutani");
 static const u8 sCreditsText_AtsukoNishida[]                  = _("Atsuko Nishida");
 static const u8 sCreditsText_MuneoSaito[]                     = _("Muneo Saito");
@@ -152,7 +152,7 @@ static const u8 sCreditsText_ChieMatsumiya[]                  = _("Chie Matsumiy
 static const u8 sCreditsText_AkikoShinozaki[]                 = _("Akiko Shinozaki");
 static const u8 sCreditsText_AstukoFujii[]                    = _("Astuko Fujii");
 static const u8 sCreditsText_NozomuSaito[]                    = _("Nozomu Saito");
-static const u8 sCreditsText_KenkichiToyama[]                 = _("Kenkichi Toyama");
+static const u8 sCreditsText_KenkichiToyama[]                 = _("Phyromatical");
 static const u8 sCreditsText_SuguruNakatsui[]                 = _("Suguru Nakatsui");
 static const u8 sCreditsText_YumiFunasaka[]                   = _("Yumi Funasaka");
 static const u8 sCreditsText_NaokoYanase[]                    = _("Naoko Yanase");
@@ -401,22 +401,20 @@ static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][EN
     [PAGE_ART_DIRECTOR] = {
         _,
         &sCreditsEntry_ArtDirector,
-        &sCreditsEntry_KenSugimori,
+        &sCreditsEntry_ShigekiMorimoto,
         _,
         _,
     },
     [PAGE_WORLD_DIRECTOR] = {
         _,
         &sCreditsEntry_WorldDirector,
-        &sCreditsEntry_JunichiMasuda,
+        &sCreditsEntry_ShigekiMorimoto,
         _,
         _,
     },
     [PAGE_LEAD_PROGRAMMER] = {
         &sCreditsEntry_LeadProgrammer,
-        &sCreditsEntry_HisashiSogabe,
-        &sCreditsEntry_LeadGraphicArtist,
-        &sCreditsEntry_MotofumiFujiwara,
+        &sCreditsEntry_ShigekiMorimoto
         _,
     },
     [PAGE_PROGRAMMERS_1] = {
@@ -452,6 +450,7 @@ static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][EN
         &sCreditsEntry_GraphicDesigners,
         &sCreditsEntry_MotofumiFujiwara,
         &sCreditsEntry_SatoshiOhta,
+        &sCreditsEntry_TakenoriOhta,
         _,
     },
     [PAGE_GRAPHIC_DESIGNERS_2] = {
@@ -459,6 +458,7 @@ static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][EN
         &sCreditsEntry_KenkichiToyama,
         &sCreditsEntry_AsukaIwashita,
         &sCreditsEntry_TakaoUnno,
+        &sCreditsEntry_SosukeTamada,
         _,
     },
     [PAGE_GRAPHIC_DESIGNERS_3] = {
@@ -505,16 +505,12 @@ static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][EN
     },
     [PAGE_SCENARIO_PLOT] = {
         &sCreditsEntry_ScenarioPlot,
-        &sCreditsEntry_AkihitoTomisawa,
-        &sCreditsEntry_JunichiMasuda,
-        &sCreditsEntry_KojiNishino,
+        &sCreditsEntry_ShigekiMorimoto,
         _,
     },
     [PAGE_SCENARIO] = {
         &sCreditsEntry_Scenario,
-        &sCreditsEntry_AkihitoTomisawa,
-        &sCreditsEntry_HitomiSato,
-        &sCreditsEntry_ToshinobuMatsumiya,
+        &sCreditsEntry_ShigekiMorimoto,
         _,
     },
     [PAGE_SCRIPT_DESIGNERS] = {
