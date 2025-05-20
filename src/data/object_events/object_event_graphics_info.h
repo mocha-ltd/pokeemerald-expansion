@@ -1767,12 +1767,12 @@ const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_MayFieldMove = {
 
 const struct ObjectEventGraphicsInfo gObjectEventGraphicsInfo_Silver = { 
     .tileTag = 0xFFFF,
-    .paletteTag = OBJ_EVENT_PAL_SILVER,
+    .paletteTag = OBJ_EVENT_PAL_TAG_NPC_3,
     .reflectionPaletteTag = OBJ_EVENT_PAL_TAG_NONE,
     .size = 512,
     .width = 32,
     .height = 32,
-    .paletteSlot = 10,
+    .paletteSlot = PALSLOT_NPC_3,
     .shadowSize = SHADOW_SIZE_M,
     .inanimate = FALSE,
     .compressed = FALSE,

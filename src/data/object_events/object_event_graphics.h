@@ -39,7 +39,6 @@ const u32 gObjectEventPic_RubySapphireMayRunning[] = INCBIN_U32("graphics/object
 const u16 gObjectEventPal_RubySapphireMay[] = INCBIN_U16("graphics/object_events/palettes/may.gbapal");
 const u16 gUnusedObjectEventPalette[] = INCBIN_U16("graphics/object_events/palettes/unused_palette.gbapal");
 const u32 gObjectEventPic_Silver[] = INCBIN_U32("graphics/object_events/pics/people/silver.4bpp");
-const u16 gObjectEventPalette_Silver[] = INCBIN_U16("graphics/object_events/palettes/silver.gbapal");
 const u32 gObjectEventPic_UmbraGruntM[] = INCBIN_U32("graphics/object_events/pics/people/male_umbra_grunt.4bpp");
 const u32 gObjectEventPic_UmbraGruntF[] = INCBIN_U32("graphics/object_events/pics/people/female_umbra_grunt.4bpp");
 const u32 gObjectEventPic_Selene[] = INCBIN_U32("graphics/object_events/pics/people/selene.4bpp");
