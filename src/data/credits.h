@@ -5,7 +5,7 @@ enum
     PAGE_ART_DIRECTOR,
     PAGE_WORLD_DIRECTOR,
     PAGE_LEAD_PROGRAMMER,
-    PAGE_PROGRAMMERS_1,
+    //PAGE_PROGRAMMERS_1,
     //PAGE_PROGRAMMERS_2,
     //PAGE_PROGRAMMERS_3,
     //PAGE_PROGRAMMERS_4,
@@ -72,7 +72,7 @@ static const u8 sCreditsText_BattleDirector[]                 = _("Battle Direct
 static const u8 sCreditsText_MainProgrammer[]                 = _("Main Programmer");
 static const u8 sCreditsText_BattleSystemPgrms[]              = _("Battle System Programmers");
 static const u8 sCreditsText_FieldSystemPgrms[]               = _("Field System Programmer");
-static const u8 sCreditsText_Programmers[]                    = _("Sprite Artists");
+static const u8 sCreditsText_Programmers[]                    = _("Programmers");
 static const u8 sCreditsText_MainGraphicDesigner[]            = _("Main Graphic Designer");
 static const u8 sCreditsText_GraphicDesigners[]               = _("Tileset Artists");
 static const u8 sCreditsText_PkmnDesigners[]                  = _("POKéMON Designers");
@@ -106,7 +106,7 @@ static const u8 sCreditsText_JunichiMasuda[]                  = _("Junichi Masud
 static const u8 sCreditsText_KenSugimori[]                    = _("Ekat");
 static const u8 sCreditsText_ShigekiMorimoto[]                = _("mocha_ltd");
 static const u8 sCreditsText_TetsuyaWatanabe[]                = _("Tetsuya Watanabe");
-static const u8 sCreditsText_HisashiSogabe[]                  = _("Yogurcomics");
+static const u8 sCreditsText_HisashiSogabe[]                  = _("Hisashi Sogabe");
 static const u8 sCreditsText_SosukeTamada[]                   = _("Pokémon Essentials");
 static const u8 sCreditsText_AkitoMori[]                      = _("Akito Mori");
 static const u8 sCreditsText_KeitaKagaya[]                    = _("Keita Kagaya");
@@ -114,7 +114,7 @@ static const u8 sCreditsText_YoshinoriMatsuda[]               = _("Yoshinori Mat
 static const u8 sCreditsText_HiroyukiNakamura[]               = _("Hiroyuki Nakamura");
 static const u8 sCreditsText_MasaoTaya[]                      = _("Masao Taya");
 static const u8 sCreditsText_SatoshiNohara[]                  = _("Satoshi Nohara");
-static const u8 sCreditsText_TomomichiOhta[]                  = _("lightsabit");
+static const u8 sCreditsText_TomomichiOhta[]                  = _("Tomomichi Ohta");
 static const u8 sCreditsText_MiyukiIwasawa[]                  = _("Miyuki Iwasawa");
 static const u8 sCreditsText_TakenoriOhta[]                   = _("Amethyst Crim Smeargletail");
 static const u8 sCreditsText_HironobuYoshida[]                = _("Vurtax (FRLG Rips)");
@@ -151,7 +151,7 @@ static const u8 sCreditsText_SachikoHamano[]                  = _("Sachiko Haman
 static const u8 sCreditsText_ChieMatsumiya[]                  = _("Chie Matsumiya");
 static const u8 sCreditsText_AkikoShinozaki[]                 = _("Akiko Shinozaki");
 static const u8 sCreditsText_AstukoFujii[]                    = _("Astuko Fujii");
-static const u8 sCreditsText_NozomuSaito[]                    = _("darkest.lariat");
+static const u8 sCreditsText_NozomuSaito[]                    = _("Nozomu Saito");
 static const u8 sCreditsText_KenkichiToyama[]                 = _("Phyromatical");
 static const u8 sCreditsText_SuguruNakatsui[]                 = _("Suguru Nakatsui");
 static const u8 sCreditsText_YumiFunasaka[]                   = _("Yumi Funasaka");
